@@ -1,0 +1,1280 @@
+# ninja log v6
+96	142	8063096496045676	project_elf_src_esp32.c	e06d69c7c6869fb
+9658	11367	8063096591275632	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6.c.obj	2700654b143cfed5
+77	165	8063096496273398	esp-idf/esp_system/ld/sections.ld.in	75f4dc87f3e64afb
+2266	3905	8063096517348289	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port/os_xtensa.c.obj	ea663dd3a579c836
+2079	3348	8063096515481856	esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/src/coexist_debug.c.obj	f4a2dd0ac63972a
+16106	17346	8063096655759344	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/list.c.obj	20d94c8923b31c4c
+253	1686	8063096497230325	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_header.c.obj	a6e547619173d5e0
+96	142	8063096496045676	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/project_elf_src_esp32.c	e06d69c7c6869fb
+3091	4517	8063096525615151	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/crypto_ops.c.obj	d0b98dbdf9170f37
+16649	18336	8063096661185033	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/idf_additions.c.obj	82fc9d89434d02a1
+6370	7386	8063096558394357	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_objects.c.obj	aef30a854fdfbe99
+35633	37516	8063096851027006	esp-idf/esp_hal_sd/CMakeFiles/__idf_esp_hal_sd.dir/sdio_slave_hal.c.obj	f191f8a7dd470c14
+1771	2679	8063096512411294	esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/port/xtensa/xt_debugexception.S.obj	f8243167b2bf8a11
+25258	25579	8063096747276495	esp-idf/esp_hal_touch_sens/libesp_hal_touch_sens.a	9dddba56798f644f
+3521	4965	8063096529912770	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_common/eap_wsc_common.c.obj	646b777a7e2dc4b
+25883	27067	8063096753534398	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_mac.c.obj	882c8b3422d4fece
+11650	13383	8063096611193127	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/dhcpserver/dhcpserver.c.obj	d1680a233da46ceb
+86	832	8063096496433853	partition_table/partition-table.bin	2f27e515526248e7
+18520	20450	8063096679895642	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/sar_periph_ctrl.c.obj	f544d1eb0c039ae8
+68	157	8063096496203110	esp-idf/esp_system/ld/memory.ld	10f5278d1a5279f7
+32201	32302	8063096816715472	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/everest/libeverest.a	2401cb0934ec4fb
+2051	2727	8063096515210734	esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/src/coexist_debug_diagram.c.obj	39d804b32801bfa4
+86	832	8063096496433853	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/partition_table/partition-table.bin	2f27e515526248e7
+21493	22217	8063096709627615	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/panic_handler_asm.S.obj	80c09ea5821ef9a6
+477	2873	8063096499470805	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls.c.obj	6a4ff62b57995964
+181	1854	8063096496504085	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_parse.c.obj	5a2db393a1ca7b13
+27733	28687	8063096772024483	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_its_file.c.obj	ad6b0c4054bc7dd
+22258	22602	8063096717283795	esp-idf/cxx/libcxx.a	9603409e20ce0403
+466	1815	8063096499350416	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_platform.c.obj	b4b1f54a4e1b38d1
+19160	20551	8063096686294318	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj	e1e07e9e09da0f9
+68	157	8063096496203110	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_system/ld/memory.ld	10f5278d1a5279f7
+8162	9798	8063096576332390	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/stats.c.obj	cc6c1b2f624a0b36
+439	1828	8063096499084501	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_std.c.obj	d813bc3d50fef6f0
+77	165	8063096496273398	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_system/ld/sections.ld.in	75f4dc87f3e64afb
+263	1657	8063096497320621	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_utils.c.obj	8a9ad4ee2783f5b0
+21285	22771	8063096707543172	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt/task_wdt_impl_timergroup.c.obj	227122fef0811231
+6388	7362	8063096558585032	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_defaults.c.obj	6cbb2f2cb1f1f8da
+360	1672	8063096498301228	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_cali.c.obj	4258cbfe08b69869
+7895	10313	8063096573650343	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/memp.c.obj	d53d3684d169a8ae
+224	1699	8063096496929833	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/util/ctrl_sock.c.obj	a8ebefba22032b92
+20504	21366	8063096699735430	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/cache_hal_esp32.c.obj	5ed8bc3067ee3233
+17056	19212	8063096665258927	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/periph_ctrl.c.obj	dc469ca17d53bc51
+372	1714	8063096498421560	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_cali_curve_fitting.c.obj	73561e6a93627f2
+8422	10051	8063096578911311	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/autoip.c.obj	5990866122740d8e
+275	2649	8063096497456056	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport.c.obj	32d1b13b67483fd9
+31045	31397	8063096805135928	esp-idf/bootloader_support/libbootloader_support.a	10279a2c64ef5dd9
+36386	37753	8063096858563288	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_dstr.c.obj	ec79d25b1e782fe0
+517	1728	8063096499872195	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls_platform_port.c.obj	f6b914025a080182
+348	1742	8063096498170773	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_common.c.obj	93fcf0ce11ebfae0
+37556	38834	8063096870261431	esp-idf/unity/CMakeFiles/__idf_unity.dir/unity/src/unity.c.obj	ddac584034e3bfe0
+413	1756	8063096498823008	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/esp32/adc_cali_line_fitting.c.obj	f77c24d132a077cc
+22331	23554	8063096718011163	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_boya.c.obj	5bf64e6c3a1acea9
+13297	14614	8063096627676328	esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/system_layer/esp_psram_mspi.c.obj	3d3fe551acfe0edd
+6685	8669	8063096561544657	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/api_msg.c.obj	1854ea2e89129e41
+38851	40204	8063096883207420	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/crypto/srp6a/esp_srp_mpi.c.obj	4092bfb854ef0555
+43203	44678	8063096926728143	esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_nucleus.c.obj	8dd1663947d71bd5
+5473	7222	8063096549433716	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa_main.c.obj	2d35c2e93a4d3e5b
+34421	35604	8063096838907159	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj	facb2d647f29afff
+20384	21177	8063096698537350	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/log_level.c.obj	cc69a504cf28f23e
+15250	16421	8063096647196228	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/scandir.c.obj	9c9796ae3d23a76e
+1829	3389	8063096512983315	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_init.c.obj	63d372a51027bad8
+11419	12953	8063096608891235	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl/md4.c.obj	ee1abda47a8851f0
+205	1801	8063096496734621	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_uri.c.obj	f93971577ee17537
+397	1771	8063096498672559	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/esp32/adc_dma.c.obj	b6129f7623b190e0
+3362	4775	8063096528312801	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-prf.c.obj	9f8c9bfd3201ea5a
+4724	6236	8063096541932072	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpa_debug.c.obj	d632ef2f191b3597
+3402	4900	8063096528724328	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/md4-internal.c.obj	7bc6f8e0a197e8ae
+1854	3521	8063096513234085	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_default.c.obj	2a4033aa892cc443
+335	1785	8063096498050355	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_oneshot.c.obj	9b36b93f8cc858e0
+27170	28604	8063096766405647	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/CMakeFiles/utilities.dir/constant_time.c.obj	59169a1cec128a28
+19435	21031	8063096689052124	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_init.c.obj	c82fe18d50fd12b2
+1882	3202	8063096513520127	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_default_ap.c.obj	6251fe972e26e8d9
+45156	45241	8063096946255753	esp-idf/main/libmain.a	11fdeb8e4fee82e3
+17862	19198	8063096673317167	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_event.c.obj	ed87aa771b8d84c4
+214	2079	8063096496839772	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_ws.c.obj	dbb9fa33887b8149
+15782	16731	8063096652522855	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/picolibc/rand.c.obj	af1977b4092e89f3
+36108	38414	8063096855784154	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_slave.c.obj	ab98b9f409206ee8
+11209	12887	8063096606783470	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/hooks/lwip_default_hooks.c.obj	2446183d29fc7c96
+23168	24093	8063096726382876	esp-idf/esp_libc/libesp_libc.a	5be0794f862d14f7
+21392	21730	8063096708613242	esp-idf/esp_ringbuf/libesp_ringbuf.a	5e73885bfa75fafc
+311	1868	8063096497809931	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_socks_proxy.c.obj	4c99d2a3d933d5c4
+53183	53256	8063097027201539	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+6354	7518	8063096558233662	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_handlers.c.obj	1f69b93b9315745f
+189	1882	8063096496584332	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_sess.c.obj	2d49fb92813700d6
+490	1895	8063096499606299	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp-tls-crypto/esp_tls_crypto.c.obj	b896894ee6fd3c37
+21246	22549	8063096707161987	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/ubsan.c.obj	536eb935a0a97282
+28321	29963	8063096777905816	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/27b5f19eb96cf5483fb07150244c43a9/psa_crypto_driver_esp_sha.c.obj	746252d3148b6515
+15546	16601	8063096650157962	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/port/esp_time_impl.c.obj	5a69c6352e2e28ee
+385	1924	8063096498546998	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_continuous.c.obj	c73b6bd02cad8686
+21078	22071	8063096705486364	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	e87f1f87b1ae4bcb
+8148	9813	8063096576172011	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/raw.c.obj	1a96eb66ae29e6d9
+15796	17021	8063096652658418	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/picolibc/open_memstream.c.obj	878b30a7b47e1a56
+323	3091	8063096497929996	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_ws.c.obj	be8d7d3c2c44a646
+15067	15546	8063096645358866	esp-idf/esp_phy/libesp_phy.a	73bc36cdeaf39125
+174	1960	8063096496433853	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_main.c.obj	90f07cdb3d2cf94c
+44773	44925	8063096942426342	esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a	56289f28cc2b8c3e
+4289	6127	8063096537584300	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_mschapv2.c.obj	dbcebcc81f664947
+25870	27263	8063096753394027	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_hash.c.obj	e0b7e3c60a94f9e0
+1961	3831	8063096514302856	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/smartconfig_ack.c.obj	a4e41fa5de58a793
+504	1981	8063096499736614	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls_error_capture.c.obj	c1f087deef73ca6c
+1786	2973	8063096512556786	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/lib_printf.c.obj	9086ba106473ab39
+166	1997	8063096496358674	esp-idf/esp_https_ota/CMakeFiles/__idf_esp_https_ota.dir/src/esp_https_ota.c.obj	1f32217596c5c96c
+196	2051	8063096496659458	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_txrx.c.obj	526a4d68d7ce405d
+17747	19012	8063096672159086	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modem.c.obj	e970d52afb5e07d8
+3348	4886	8063096528182454	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-tlsprf.c.obj	ebdf76595268d2a5
+10671	12194	8063096601405546	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ppp.c.obj	e91a578cd9deea4b
+1686	2693	8063096511558476	esp-idf/esp_hal_i2c/CMakeFiles/__idf_esp_hal_i2c.dir/esp32/i2c_periph.c.obj	a46dc4b36a8ef7ed
+5040	7624	8063096545095738	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_eap_client.c.obj	dc981a4f94f86c0d
+6492	7759	8063096559613473	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif/esp_pbuf_ref.c.obj	fbb1a127d81646e7
+30335	31367	8063096798054031	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_oid.c.obj	8e2b9c679ac9f5e6
+451	2265	8063096499214887	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_pdm.c.obj	9cfa80497885f04c
+243	2313	8063096497130197	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_auth.c.obj	21756f502355b667
+425	2474	8063096498948453	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_common.c.obj	c31b47bc4b05b2ee
+1729	3047	8063096511985228	esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/packet.c.obj	1c1d7bd1469502c3
+35883	37570	8063096853528568	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_blockdev.c.obj	62891fcc149648af
+20305	21092	8063096697749880	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	99c1abb229ee26a4
+20438	21312	8063096699073334	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/cache/log_binary_heap.c.obj	8ccaea3e7dc07ac9
+299	2518	8063096497684772	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_internal.c.obj	90a52890240b14e
+43070	44117	8063096925388772	esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_apis.c.obj	4fe78769811da448
+286	2632	8063096497559323	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_ssl.c.obj	57e6af4a0e8c9e0b
+233	2989	8063096497025034	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/esp_http_client.c.obj	8f38b827dd98c99
+1756	2664	8063096512255796	esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/port/xtensa/gdbstub-entry.S.obj	8887418e433f22de
+16474	17823	8063096659438808	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_overlay_os_hook.c.obj	6c0e17857c472915
+36419	37614	8063096858889456	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_end.c.obj	44fa40015b871ec0
+832	2710	8063096503025478	esp-idf/http_parser/CMakeFiles/__idf_http_parser.dir/http_parser.c.obj	11914e7f6f359251
+35325	37163	8063096847937280	esp-idf/esp_stdio/CMakeFiles/__idf_esp_stdio.dir/stdio_vfs.c.obj	f2a5db958e62abd
+1659	2780	8063096511292679	esp-idf/esp_hal_i2c/CMakeFiles/__idf_esp_hal_i2c.dir/i2c_hal.c.obj	e80e07f3242bb5b5
+16770	18486	8063096662404557	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clk.c.obj	d14fd5ae1e26358b
+1672	2901	8063096511422956	esp-idf/esp_hal_i2c/CMakeFiles/__idf_esp_hal_i2c.dir/i2c_hal_iram.c.obj	98d046f37bbc96ab
+14249	15814	8063096637194996	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_cond_var.c.obj	d730c9e40a7febf5
+9764	11156	8063096592334823	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/bridgeif_fdb.c.obj	7d0b4dbe3b75a2ea
+1815	3362	8063096512847718	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/smartconfig.c.obj	7f2eb8853474f346
+1701	3234	8063096511704038	esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/gdbstub.c.obj	c3d67c53b5185019
+6725	8148	8063096561940807	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/err.c.obj	9d421ffe45d87491
+1714	3010	8063096511849470	esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/gdbstub_transport.c.obj	3b581248d8496490
+42361	43728	8063096918307807	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio_wl.c.obj	e52329ca1131479b
+36275	37543	8063096857439365	esp-idf/console/CMakeFiles/__idf_console.dir/split_argv.c.obj	4d7766af13c8483
+19147	20516	8063096686158867	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	f727247a7884aabe
+23397	25396	8063096728660311	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	89b7deef34c2dda2
+48291	53150	8063096977600194	bootloader/bootloader.map	ec7e2a471f978adf
+1801	3147	8063096512712307	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/mesh_event.c.obj	6229bff4e8517f02
+1742	3217	8063096512120505	esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/port/xtensa/gdbstub_xtensa.c.obj	fa48b1292bc8e075
+25356	26142	8063096748259091	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/chachapoly.c.obj	7cdddc65f16a8f22
+22571	24347	8063096720407059	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_ops.c.obj	7381a2c09532e169
+1896	3873	8063096513660582	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/esp32/esp_adapter.c.obj	65adcd725c377421
+41845	43423	8063096913152956	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/i2c/esp_lcd_panel_io_i2c.c.obj	666999483cbbf09a
+10821	12058	8063096602905534	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppol2tp.c.obj	c35d2d64651b0df5
+1868	3314	8063096513374643	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_netif.c.obj	cea26647fbe9a446
+9370	10821	8063096588395890	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ethip6.c.obj	85df97d85be797ac
+32852	32950	8063096823215368	esp-idf/mbedtls/mbedtls/tf-psa-crypto/platform/libplatform.a	608537ddb0018a2b
+38716	39858	8063096881854899	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/sec0.pb-c.c.obj	8e8f2d28b6fcc2e0
+17732	19084	8063096672023241	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/adc_share_hw_ctrl.c.obj	480028eb7d35ff9c
+3389	4859	8063096528593955	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-prf.c.obj	b9acd5d43d693c5f
+1982	3453	8063096514513580	esp-idf/esp_coex/CMakeFiles/__idf_esp_coex.dir/esp32/esp_coex_adapter.c.obj	fb741be76b71ca12
+22629	24819	8063096720993820	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_api.c.obj	22e7bb2a6a0d8346
+11143	12668	8063096606126465	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/utils.c.obj	34893fc8808f6784
+2727	4872	8063096521959853	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/sae.c.obj	953948cb289b9984
+531	3375	8063096500007704	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls_mbedtls.c.obj	dcc5b00f0cd42238
+7721	9718	8063096571911339	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/def.c.obj	456401547f6794f1
+1924	3402	8063096513931431	esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/regulatory/esp_wifi_regulatory.c.obj	fa1b3dd82728b94f
+20251	21219	8063096697203170	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_lock.c.obj	ae4ad42b81f8d95d
+2313	3892	8063096517834842	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port/eloop.c.obj	43e8ad43dbb4d2ad
+44595	44785	8063096940640521	esp-idf/esp_eth/libesp_eth.a	2499aba28bad8ce8
+19071	20464	8063096685406384	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32/rtc_io_periph.c.obj	e59ad2265b927dc3
+2901	4288	8063096523711332	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/bitfield.c.obj	239f3774a0146744
+4846	6505	8063096543156221	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_parse.c.obj	f02652262de343e5
+20360	21272	8063096698296748	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	69549e02f8ab56e2
+2475	4310	8063096519450641	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ap_config.c.obj	424ef3155ea83dc5
+25713	27054	8063096751818476	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_aead.c.obj	1f8d23dfdd28ce5e
+22319	23678	8063096717891047	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_winbond.c.obj	3cb593dd2ff5d91c
+36214	38125	8063096856842225	esp-idf/console/CMakeFiles/__idf_console.dir/commands.c.obj	f2b7966fd9d33fdf
+2973	4337	8063096524423818	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-siv.c.obj	72d51d106c90e22d
+2679	4351	8063096521493144	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/sta_info.c.obj	e66b5331490d7a5c
+40249	41750	8063096897188881	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_oper.c.obj	1a627f937b5f3094
+2989	4370	8063096524584550	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-kdf.c.obj	1866c116946a1387
+40325	42005	8063096897937936	esp-idf/esp_driver_pcnt/CMakeFiles/__idf_esp_driver_pcnt.dir/src/pulse_cnt.c.obj	a1f9eae1e870c211
+2781	4414	8063096522501880	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/dragonfly.c.obj	924380e05c4b5765
+21192	22319	8063096706614979	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/startup.c.obj	de61ec76a14814aa
+3147	4460	8063096526160307	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_group5.c.obj	dcbf7919468e98be
+44368	44643	8063096938377928	esp-idf/esp_hal_twai/libesp_hal_twai.a	f23f879352fe704f
+19212	20592	8063096686825989	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mpi_periph.c.obj	b344e53bb370d063
+2710	4474	8063096521804304	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/comeback_token.c.obj	e647b111a34512cd
+44762	44896	8063096942316345	esp-idf/esp_driver_sd_intf/libesp_driver_sd_intf.a	e99f0c12a2b4764b
+2649	4488	8063096521192063	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth_ie.c.obj	851838ab6899d537
+2518	4502	8063096519873290	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ieee802_1x.c.obj	1e11669c6b0b029b
+3047	4530	8063096525171324	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-gcm.c.obj	43701e50e11b582f
+29991	31600	8063096794608049	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/esp/v6.0.2/esp-idf/components/mbedtls/port/net_sockets.c.obj	cb05b00836ba7d5c
+40399	42072	8063096898685753	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_common.c.obj	f825b5266918544b
+3011	4543	8063096524805278	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ccmp.c.obj	fb1eb4e1771746d9
+3234	4569	8063096527035746	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-tlsprf.c.obj	73eefeaf8f37e07b
+2665	4595	8063096521347465	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/pmksa_cache_auth.c.obj	279afe59e501793f
+16174	17884	8063096656436763	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/timers.c.obj	a7a9844fd5d29714
+29932	31120	8063096794025876	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/esp/v6.0.2/esp-idf/components/mbedtls/port/mbedtls_debug.c.obj	34c63e32a13e075
+2693	4642	8063096521623527	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ieee802_11.c.obj	bbfb43cbc321dc80
+11986	13475	8063096614559020	esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_override.c.obj	bbd148744f44f7b5
+29191	30935	8063096786605670	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls12_client.c.obj	a9c72635a4d468c1
+2873	4660	8063096523430368	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/wpa_common.c.obj	12c85985814ee508
+3202	4677	8063096526722733	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_groups.c.obj	278fd93ec3e601dc
+3314	4724	8063096527831010	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-tlsprf.c.obj	549aa674a9ff611e
+42719	43162	8063096921889130	esp-idf/esp_hal_clock/libesp_hal_clock.a	ad600ec36eb1a65d
+30434	30714	8063096801286437	bootloader-prefix/src/bootloader-stamp/bootloader-mkdir	9b672de5a2a1e4cc
+25683	26615	8063096751527394	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/md5.c.obj	77133c05a4c9df7f
+3217	4791	8063096526873527	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ms_funcs.c.obj	6ffd5a0820aa1226
+6290	7809	8063096557591577	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/des-internal.c.obj	e1590b289144dd68
+8178	9828	8063096576472953	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/sys.c.obj	7d128ec258ddd393
+2633	4832	8063096521026449	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth.c.obj	8903ec620eb9af5c
+3375	4846	8063096528448275	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-prf.c.obj	aaa98862d5e646f7
+20214	20980	8063096696836833	esp-idf/heap/CMakeFiles/__idf_heap.dir/port/esp32/memory_layout.c.obj	3d7edf58ceac908b
+9854	10235	8063096593232422	esp-idf/esp_coex/libesp_coex.a	4a11cbc47dbd6894
+3453	5039	8063096529230791	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-tprf.c.obj	a13ff2fdafe29341
+1997	5094	8063096514659028	esp-idf/esp_https_ota/libesp_https_ota.a	4ad962c25772988c
+40094	41523	8063096895636790	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_cmpr.c.obj	5ab392f06d672482
+3873	5416	8063096533429137	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/chap.c.obj	6e29e0d0e8bf4a93
+38641	40093	8063096881108361	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/common/protocomm.c.obj	2aa3c36aecd88d72
+3831	5473	8063096533007892	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/ieee802_11_common.c.obj	66d958c372056065
+43124	44284	8063096925930559	esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs_api.c.obj	b22badf05decb58f
+21177	22331	8063096706474461	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_system.c.obj	632a6f4bcab818c0
+5094	5564	8063096545632295	esp-idf/esp_http_server/libesp_http_server.a	6189f688fae8eb49
+34187	34629	8063096836562525	esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__/__/x509_crt_bundle.S.obj	33bcf13e759a4aa2
+12000	13058	8063096614694545	esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/lib_printf.c.obj	9087baaea863b373
+3905	5597	8063096533748103	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_common.c.obj	33ec2b0071346af0
+3892	5651	8063096533622680	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap.c.obj	135746122e16e6d0
+34359	35417	8063096838284909	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/init.c.obj	377ea1cfefb9931
+20606	21566	8063096700758864	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_serial_output.c.obj	fc0564c6453e59d1
+4488	5962	8063096539583537	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_common.c.obj	f7faa8af224d783
+6142	8782	8063096556111385	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls.c.obj	6cc528565f497e79
+5564	5948	8063096550333264	esp-idf/esp_http_client/libesp_http_client.a	1ada04851aa0e822
+41945	43473	8063096914146218	esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl.c.obj	ad2db446b7536afb
+22359	23938	8063096718290514	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_mxic_opi.c.obj	aead002f922d2d60
+4661	6050	8063096541305277	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/uuid.c.obj	ae54c31dd7b6be3b
+21259	22583	8063096707287578	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/xt_wdt.c.obj	26a669b3ed80f623
+35604	36522	8063096850744469	esp-idf/esp_hal_sd/CMakeFiles/__idf_esp_hal_sd.dir/sdmmc_hal.c.obj	9de4743eea998a99
+4310	6072	8063096537805077	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap.c.obj	58ad83d9b6f3ac84
+21016	21745	8063096704858803	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	bd1534608edeceba
+4338	6101	8063096538071007	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap_common.c.obj	c692dd2022add91a
+37654	38768	8063096871229603	esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_utils_memory.c.obj	ac7b331a9f8202e9
+13019	14750	8063096624882026	esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/default_event_loop.c.obj	91f36e7ff476fc80
+37754	39098	8063096872237988	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_common.c.obj	8f38c021ec49a64e
+4570	6141	8063096540390924	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/base64.c.obj	b0a839f943ea5a90
+20592	21352	8063096700623265	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	86ce58ddbf9ac0e1
+4544	6156	8063096540135386	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa_ie.c.obj	b1fd7a78f165af14
+4351	6170	8063096538211393	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls.c.obj	21e000421d9a1050
+34299	35157	8063096837688024	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal_iram.c.obj	c9c394caa0fb5954
+24348	25682	8063096738163071	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/everest/CMakeFiles/everest.dir/library/Hacl_Curve25519_joined.c.obj	1431a74ce5e8dbf6
+18079	20278	8063096675483199	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/power_supply/brownout.c.obj	7a3abd96e52d9ed3
+4460	6185	8063096539301806	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/mschapv2.c.obj	77fcf8aabcd80d95
+21678	23035	8063096711484076	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_helpers.c.obj	7db13e1aa001a24a
+4642	6220	8063096541124552	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/ext_password.c.obj	e902dd4ddb6cfffa
+4775	6289	8063096542448852	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/json.c.obj	6fcec5bd6a84a717
+44379	44665	8063096938488335	esp-idf/esp_driver_i2c/libesp_driver_i2c.a	bbda4d6a4f4e193f
+4474	6492	8063096539432170	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast.c.obj	ecff5abef53acee1
+35497	36370	8063096849663926	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr_asm.S.obj	14f0ad3956a98fbd
+18636	20331	8063096681050693	esp-idf/esp_hal_touch_sens/CMakeFiles/__idf_esp_hal_touch_sens.dir/touch_sens_hal.c.obj	a99fc0dcb751ffee
+4596	6306	8063096540655431	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/common.c.obj	a1a59513e0c3ec28
+34211	35389	8063096836808102	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_mmu_map.c.obj	30480703b942fe4f
+4502	6321	8063096539723913	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_pac.c.obj	7751ab90472194b
+4517	6338	8063096539859442	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/pmksa_cache.c.obj	9797e1edd05047fd
+4677	6353	8063096541465765	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpabuf.c.obj	db07b59d3d7a655e
+4371	6370	8063096538402049	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls_common.c.obj	a736e6e8846e0e18
+17700	19226	8063096671692573	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp_clk_tree_common.c.obj	5d2f5d4f46e8b6cf
+16134	17747	8063096656035462	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/queue.c.obj	f684c105c2cec612
+4414	6387	8063096538833404	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_ttls.c.obj	ab04619348b2198
+34034	34171	8063096836319399	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/x509_crt_bundle.S	a7fb6ed47d8c2132
+5948	6401	8063096554175165	esp-idf/tcp_transport/libtcp_transport.a	615ba7471b375b74
+34229	35431	8063096836985554	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_cache_msync.c.obj	d4e7b8b56e1dbd9a
+25897	27453	8063096753659996	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_pake.c.obj	e197f17216b9fcb4
+30384	31389	8063096798537204	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write_crt.c.obj	bb7e55276da037fe
+4791	6418	8063096542604473	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps.c.obj	5906e8727a7d3f1b
+4832	6434	8063096543015818	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_build.c.obj	9fb42b267372d9a8
+27548	28242	8063096770184269	esp-idf/log/liblog.a	58508a4326fa9a66
+4873	6448	8063096543422120	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_common.c.obj	ee9f8dab456d9cb9
+17346	18520	8063096668159868	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/io_mux.c.obj	50ae8f9ee77002f3
+20317	21016	8063096697860253	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	3212b21d58d2351f
+29118	31412	8063096785882698	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.obj	4120170ee6a1298
+42005	43232	8063096914743463	esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/proto-c/esp_local_ctrl.pb-c.c.obj	20df59033665c42f
+5417	6462	8063096548856952	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa2_api_port.c.obj	6c49c5b8099f2b29
+4859	6477	8063096543291761	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_process.c.obj	8645b9219bf7e0dd
+4965	6593	8063096544350276	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/sae_pk.c.obj	419891207457a9c4
+34384	35325	8063096838530234	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_periph_clk.c.obj	e0d4b4581472cd25
+4530	6685	8063096540000029	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa.c.obj	f9d39dda0cb0abba
+38930	40289	8063096884000285	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/WL_Ext_Perf.cpp.obj	e35b857b5e6c051f
+21219	22274	8063096706891075	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/system_time.c.obj	9958a835cba22639
+4900	6724	8063096543693125	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_enrollee.c.obj	26501c58da0c4871
+27055	28257	8063096765236623	esp-idf/mbedtls/mbedtls/tf-psa-crypto/platform/CMakeFiles/platform.dir/memory_buffer_alloc.c.obj	50b9d85c32e14e45
+4887	6749	8063096543557603	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_dev_attr.c.obj	f81fc0f9574769ad
+37667	38800	8063096871365135	esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_port_esp32.c.obj	b23abbc463c245ae
+21164	22382	8063096706338951	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/panic.c.obj	4a98e614f0b7ce6d
+14751	16106	8063096642205664	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_rwlock.c.obj	598b42dae949b4c6
+29132	30586	8063096786008135	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.obj	56346981709f2730
+43111	44166	8063096925810147	esp-idf/rt/CMakeFiles/__idf_rt.dir/FreeRTOS_POSIX_utils.c.obj	da81b7c41daa998d
+17823	19037	8063096672933654	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_usb.c.obj	e8cd52a3effb3307
+6051	7834	8063096555203137	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa3.c.obj	b1d2d1bfea76f43a
+10473	11771	8063096599427613	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ipcp.c.obj	949faed2d2db0bf7
+6402	6856	8063096558715406	esp-idf/esp_adc/libesp_adc.a	f3b689770f85c0f8
+12668	17305	8063096621373855	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_handle_locked.cpp.obj	a1cc097c788b25f3
+37615	38732	8063096870843289	esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_utils_cache.c.obj	7548685fedd45c00
+5597	7080	8063096550662249	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpas_glue.c.obj	4a3e6413feba3dcb
+38112	39218	8063096875826232	esp-idf/esp_hal_rmt/CMakeFiles/__idf_esp_hal_rmt.dir/esp32/rmt_periph.c.obj	85ce9a5ab9170005
+20450	21297	8063096699203719	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	d215fe64e1afe1ec
+11326	12781	8063096607962865	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32xx/vfs_lwip.c.obj	ef3a81f696a45691
+6856	7197	8063096563260555	esp-idf/esp_driver_i2s/libesp_driver_i2s.a	6577bca7759d6561
+28768	30384	8063096782375818	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/5b22c22e47e183be4efad58a3b712a9c/psa_crypto_driver_esp_aes.c.obj	df3807bad16e480c
+38391	40009	8063096878613990	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_host.c.obj	ce6d37fd8a1113e8
+5651	7442	8063096551214142	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_common.c.obj	a9b965d781e7a065
+7197	7704	8063096566672541	esp-idf/esp-tls/libesp-tls.a	2b67647786c5c4
+27127	28843	8063096765963573	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/CMakeFiles/utilities.dir/asn1parse.c.obj	2f1b7b4cb96f24f4
+34220	34808	8063096836895262	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port/esp32/ext_mem_layout.c.obj	76a8f06b89b12bb1
+6236	7721	8063096557059689	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/rc4.c.obj	4a2320527a7b27c9
+6322	7859	8063096557912611	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-unwrap.c.obj	2889260f6bb5747a
+38834	40737	8063096883036732	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/crypto/srp6a/esp_srp.c.obj	a7ffec8da202efdd
+6072	7882	8063096555424022	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_owe.c.obj	1dff198eaed9dbb2
+6306	7895	8063096557762094	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-wrap.c.obj	fb7f4ad64e17c25a
+44447	44730	8063096939162244	esp-idf/esp_https_server/libesp_https_server.a	57710cc8686e259a
+20331	21205	8063096698015700	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	439743a5d605ffe1
+31278	48291	8063096977538614	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure	5f50c246e55d130b
+6463	7942	8063096559322216	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif/wlanif.c.obj	dff8201d8251c090
+6101	8119	8063096555705179	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_hostap.c.obj	107ee0cda7921e5
+38208	40399	8063096876776056	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/src/sd_host_sdmmc.c.obj	5b891d5a527ef5e
+34267	35219	8063096837361563	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_trace.c.obj	37eee3a4717e3ebc
+6338	8162	8063096558073186	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-ccm.c.obj	8f1a2b06b9a94a02
+33066	33453	8063096825353760	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/libtfpsacrypto.a	1b69d32ba6620b68
+6434	8177	8063096559036248	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_sntp.c.obj	512e522de625393d
+36007	37696	8063096854764374	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_io.c.obj	5cdba4adb6305e57
+10537	12139	8063096600060455	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/mppe.c.obj	6274df98a8a3943b
+10235	11352	8063096597050892	esp-idf/wpa_supplicant/libwpa_supplicant.a	6899c2b6c0a2a835
+6448	8190	8063096559171711	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_lwip_defaults.c.obj	57a9a5e302331588
+8119	9932	8063096575891310	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/pbuf.c.obj	19afa87b8ccbd8db
+40009	42122	8063096894794172	esp-idf/esp_driver_ledc/CMakeFiles/__idf_esp_driver_ledc.dir/src/ledc.c.obj	2db9c2239e3e9897
+7704	8304	8063096571741071	esp-idf/http_parser/libhttp_parser.a	eb5e751b9368e60e
+10502	11986	8063096599725602	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/lcp.c.obj	57a760fdb23f3610
+6749	8358	8063096562191641	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/if_api.c.obj	bb1e955ac90446d7
+8727	10779	8063096581976432	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4.c.obj	656df2168c47c4c8
+6477	8376	8063096559472955	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/netif/ethernetif.c.obj	33696c7f64a6b4a3
+20373	21192	8063096698427095	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_write.c.obj	9b2e9b670316f83b
+40311	41735	8063096897807598	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_timer.c.obj	e806f4dea277a688
+15308	16474	8063096647784795	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/syscalls.c.obj	3e2e96390363a5c5
+31127	31278	8063096807378966	bootloader-prefix/src/bootloader-stamp/bootloader-patch	3917dc6143fde991
+5963	8392	8063096554325642	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wps.c.obj	bc325bbc86c8d088
+6506	8408	8063096559758924	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/sntp/sntp.c.obj	da59922330dd10c5
+6593	8421	8063096560631361	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/api_lib.c.obj	ef7fff4b520367b0
+34171	34788	8063096836414564	esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/port/esp_mem.c.obj	5ad9f4e77c96ce6d
+6220	8434	8063096556904235	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/fastpbkdf2.c.obj	1b7e2ed42b8387dd
+29963	30984	8063096794336927	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/esp/v6.0.2/esp-idf/components/mbedtls/port/esp_timing.c.obj	3a6937e375542973
+30182	31593	8063096796514011	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509.c.obj	93c3a4377fa0afba
+7080	8457	8063096565502572	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netbuf.c.obj	f9b74f2830dddfe1
+10779	12240	8063096602484187	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppcrypt.c.obj	f43071cf9dc9e17d
+7942	9702	8063096574124246	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/netif.c.obj	2b42aef14f6e3a89
+9671	11170	8063096591416084	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6_addr.c.obj	514d80a22489224c
+6127	8685	8063096555970886	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/tls_mbedtls.c.obj	b163f9129306b6bd
+27873	29550	8063096773424725	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/91a1b78b5b908c4dbcc1345663c8e771/esp_psa_its.c.obj	d8509e5f5936f97b
+7223	8727	8063096566923123	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netdb.c.obj	144113d7ccbb22e8
+6170	8797	8063096556402488	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-rsa.c.obj	6f7813692de58c55
+19184	20564	8063096686534962	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dport_access.c.obj	51d9a8687e518ecd
+8304	8882	8063096577732315	esp-idf/esp_hal_i2c/libesp_hal_i2c.a	86c89e1936211fff
+6156	9292	8063096556256937	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-bignum.c.obj	359c15bf41c40322
+26965	29146	8063096764349760	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/pkparse.c.obj	89d296a538c239a8
+7362	9306	8063096568324033	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netifapi.c.obj	ee4508d19dde5990
+6185	9370	8063096556547921	esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-ec.c.obj	a0c69400b6225e1a
+17810	18570	8063096672804802	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_mspi.c.obj	d8beaea6ec66a9dd
+8882	9380	8063096583521780	esp-idf/esp_gdbstub/libesp_gdbstub.a	f8d732930030f524
+39685	40891	8063096891551981	esp-idf/esp_blockdev_util/CMakeFiles/__idf_esp_blockdev_util.dir/generic_partition.c.obj	453d1a197c718b9b
+11082	12416	8063096605514392	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/upap.c.obj	653e9b8bae39731b
+7518	9627	8063096569884286	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/sntp/sntp.c.obj	cc4ce031bf948529
+21150	22701	8063096706203516	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/int_wdt.c.obj	3f2c29ef438fb440
+7624	9641	8063096570932817	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/netbiosns/netbiosns.c.obj	e9a65daf894cd152
+22722	24108	8063096721917687	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_os_func_noos.c.obj	b68d7afc7ceee9bb
+19172	20619	8063096686414652	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj	15505c28311d9b8a
+7442	9658	8063096569121584	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/tcpip.c.obj	544186fd44624dc0
+7882	9671	8063096573521785	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/mem.c.obj	3aa6d4d708cd53ef
+16745	17776	8063096662148567	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cpu_region_protect.c.obj	20ca880a290f177b
+7835	9689	8063096573035060	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/init.c.obj	10a4d35e3ff6f85c
+23744	25458	8063096732138070	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_oneshot_hal.c.obj	b162ef63f1d2a085
+27454	31536	8063096769235340	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_crypto.c.obj	a649ceef36a990c0
+7859	9732	8063096573286150	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ip.c.obj	b33f45af4ea5b8eb
+24702	25967	8063096741718530	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/bignum_mod_raw.c.obj	6fb7a2197c5ec21c
+7810	9745	8063096572794363	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/inet_chksum.c.obj	3da036c7c984c774
+21379	22305	8063096708483082	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_port.c.obj	4cb1ffd205c9bbd5
+41158	43111	8063096906276833	esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/phy/esp_eth_phy_802_3.c.obj	6174a69768f2a05a
+7759	9764	8063096572292559	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/dns.c.obj	d549b73fa53a8c62
+18064	20213	8063096675332707	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clock_output.c.obj	ee5306c9f560ab76
+13045	14848	8063096625147697	esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/esp_event_private.c.obj	6eb21144ff5a6cd3
+6419	9780	8063096558890996	esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_lwip.c.obj	c5f556170af33556
+7386	9841	8063096568559811	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/sockets.c.obj	3f751a42fedf12ae
+21031	21603	8063096705024402	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	9d875d659df69e57
+25938	26441	8063096754076385	esp-idf/esp_hal_gpio/libesp_hal_gpio.a	6895a22f4a6ede9d
+9380	9854	8063096588496184	esp-idf/esp_wifi/libesp_wifi.a	c993efd2b251e6c4
+13586	14905	8063096630551049	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/ets_timer_legacy.c.obj	7820dd6b85ffcf3f
+8393	10331	8063096578625396	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/timeouts.c.obj	329ea96e600020a6
+26441	26936	8063096759116065	esp-idf/soc/libsoc.a	fedebb5789cb6a57
+38865	39965	8063096883352834	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/Partition.cpp.obj	d029aecb8b49361c
+8782	10402	8063096582523107	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_napt.c.obj	25340a59ac7abeef
+42822	44243	8063096922921684	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/src/ffunicode.c.obj	665f9f09b79bfc44
+9932	11419	8063096594015274	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap_ms.c.obj	94a617c10a4e0632
+8457	10429	8063096579257309	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/etharp.c.obj	b00c2ad9e2bb63ef
+39672	41398	8063096891416514	esp-idf/driver/CMakeFiles/__idf_driver.dir/twai/twai.c.obj	ee53b9748af83354
+8190	10472	8063096576604224	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp.c.obj	45d237db245a1b71
+8359	10487	8063096578284343	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp_in.c.obj	368f4d4dd4e9c525
+21691	22400	8063096711609492	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_helpers_asm.S.obj	794dd90f99aa3ac
+25397	26671	8063096748660584	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/cmac.c.obj	d627a1dc3f868c49
+8685	10502	8063096581551442	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/igmp.c.obj	9806e4d6ed8020eb
+8376	10515	8063096578474916	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp_out.c.obj	3c11301e864f69c1
+21405	22144	8063096708748474	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_handler.S.obj	dfa5b07a5ebb3a89
+8670	10537	8063096581396137	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/icmp.c.obj	6b6cfbf3ec616dd4
+8408	10552	8063096578775978	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/udp.c.obj	13981402b75cc60b
+23554	25487	8063096730236628	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	c3479f1602fa03ab
+14988	16387	8063096644575806	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/time.c.obj	fba2a5b59c593a75
+8797	10670	8063096582659432	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_addr.c.obj	2d7887bf202a82e0
+14106	15521	8063096635749760	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread.c.obj	c659a3edba6351aa
+10797	12220	8063096602674754	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppoe.c.obj	ad7b361062344e
+8434	10718	8063096579036501	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/dhcp.c.obj	69a0e189bfd8b06c
+9306	10797	8063096587758323	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/dhcp6.c.obj	37b5cd2d44a4d431
+41474	43000	8063096909439856	esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/phy/esp_eth_phy_generic.c.obj	20b04a19ad99c55f
+36289	37600	8063096857590067	esp-idf/console/CMakeFiles/__idf_console.dir/linenoise/linenoise.c.obj	6c67530b517ed2f0
+9292	10958	8063096587622825	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_frag.c.obj	9b9c5e2dd0a131a4
+56915	56985	8063097063847948	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/app_check_size	5e9d6f345b7e61fd
+9689	11082	8063096591591491	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6_frag.c.obj	14f656107a7cdf0b
+9828	11142	8063096592971662	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap-md5.c.obj	dc25d164ce7b59fa
+9814	11209	8063096592831459	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ccp.c.obj	c18ce0747f7281e3
+34372	35128	8063096838414979	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_lock.c.obj	7c72e7e6176f2d33
+26508	27718	8063096759778448	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/sha512.c.obj	9647cf4007f42278
+28787	29159	8063096782566522	esp-idf/esp_rom/libesp_rom.a	2d707bcee96940d8
+9703	11223	8063096591732790	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/mld6.c.obj	381ee5e67ea1bcc7
+9627	11260	8063096590974639	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/icmp6.c.obj	fee31136e670fe1d
+12967	14105	8063096624371790	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_bootloader_xts_aes.c.obj	382a5a05a1acaec6
+20492	21452	8063096699615120	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	5a0c7b3dca64f513
+9798	11276	8063096592676107	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/auth.c.obj	b09e3dc9606cd97b
+9641	11296	8063096591105061	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/inet6.c.obj	a54474ab95cb8ade
+9746	11326	8063096592149218	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/bridgeif.c.obj	607aa0f6718c89d2
+16820	18037	8063096662896418	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_ctrl_os.c.obj	a7a9c61b628da480
+14615	15985	8063096640836603	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_local_storage.c.obj	136bce8d26d01922
+9780	11311	8063096592505507	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/slipif.c.obj	ff5ebd15a027e641
+9733	11340	8063096592023814	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ethernet.c.obj	4cb7e18ca05bcba4
+9718	12179	8063096591873304	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/nd6.c.obj	1c03e0f52196e7f5
+17333	19051	8063096668029363	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sar_tsens_ctrl.c.obj	75099cbd424e090a
+9841	11444	8063096593112061	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap-new.c.obj	a3c8ea5d872c437b
+20577	21046	8063096700473048	esp-idf/esp_driver_uart/libesp_driver_uart.a	266f8d30ead05dde
+10051	11474	8063096595214684	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/demand.c.obj	95ba97b5adb908ac
+42072	43302	8063096915420800	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio.c.obj	9294107360bb3e4c
+14820	16086	8063096642903421	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_semaphore.c.obj	2a15f77323e24cd
+10429	11649	8063096598992017	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/fsm.c.obj	306cae762cb09fa8
+10332	11706	8063096598017302	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ecp.c.obj	bd31b1156ac28fa4
+10402	11819	8063096598723240	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/eui64.c.obj	f9be6f712e6cca90
+20279	21150	8063096697484093	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	ffd4c83e886342cb
+13149	14835	8063096626186641	esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src/uart_wakeup.c.obj	dd1aa49c198a291d
+10313	11833	8063096597831139	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/eap.c.obj	c0de29cc1db188c4
+22772	24472	8063096722414428	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	33f21c942c7cf7c9
+10515	11949	8063096599852082	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/magic.c.obj	46a85934cb8fe70c
+22584	24153	8063096720537384	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	347160a55e19cdac
+10552	11974	8063096600215993	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/multilink.c.obj	9a18ffcbfffe053f
+27143	28871	8063096766123998	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/CMakeFiles/utilities.dir/asn1write.c.obj	f99b710a1950e544
+18349	20373	8063096678182761	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj	939dce1588d9039f
+12240	17333	8063096617102341	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_page.cpp.obj	d8f8301c2e3574c9
+10488	12000	8063096599574183	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ipv6cp.c.obj	765d211e18a5bfab
+29460	30732	8063096789302224	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_server.c.obj	1393dcd2b533fe9
+34247	34977	8063096837160944	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/cache_esp32.c.obj	812f0c000d408b37
+48291	53150	8063096977600194	bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+11706	12072	8063096611760115	esp-idf/esp_netif/libesp_netif.a	b28aa40f3d585337
+22086	23252	8063096715553044	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/reset_reason.c.obj	30a99c6366a4a901
+21272	22785	8063096707413024	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt/task_wdt.c.obj	354ac296e04e5f5e
+10718	12164	8063096601882170	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppapi.c.obj	b1a71a5cde1a1052
+10958	12260	8063096604274732	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppos.c.obj	f406b652ef226382
+11156	12650	8063096606261757	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/vj.c.obj	f3c260cb4cdd4a6c
+14973	16367	8063096644425248	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/stdatomic.c.obj	a899cafd8e5a248c
+43000	44176	8063096924706391	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio_sdmmc.c.obj	fc46a4b5895335ce
+44521	44733	8063096939909700	esp-idf/esp_driver_sdm/libesp_driver_sdm.a	af92e368ede0a89e
+11170	12683	8063096606412013	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/hooks/tcp_isn_default.c.obj	87945fe2e32430ba
+11367	12699	8063096608359171	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl/des.c.obj	502738863e5997fc
+11297	12714	8063096607661784	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/if_index.c.obj	d042b2c04ea75d15
+35157	36234	8063096846261770	esp-idf/esp_hal_clock/CMakeFiles/__idf_esp_hal_clock.dir/esp32/clk_tree_hal.c.obj	651e4ce4564c7fae
+23939	25870	8063096734085221	esp-idf/esp_hal_i2s/CMakeFiles/__idf_esp_hal_i2s.dir/i2s_hal.c.obj	83ee4604fd0f4adb
+25700	26494	8063096751698100	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/poly1305.c.obj	9b926c138b02ef24
+11444	12764	8063096609141729	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl/md5.c.obj	f68c5a28ce068057
+11354	12807	8063096608233623	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl/arc4.c.obj	a10dd3786a7e75df
+11475	12967	8063096609447457	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/polarssl/sha1.c.obj	5c764c1a5032066a
+26997	28750	8063096764662001	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/pkwrite.c.obj	e64059de361998c7
+29061	30349	8063096785309885	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.obj	10ba56e84543fd21
+11276	13005	8063096607460701	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/freertos/sys_arch.c.obj	e51fb6c3839b6999
+11260	13018	8063096607295179	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/sockets_ext.c.obj	2e2b1b200f38778e
+15828	16835	8063096652974558	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/picolibc/bufio_setvbuf.c.obj	2bb2d5c37571b31c
+11772	13488	8063096612411949	esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs.c.obj	16468cd8712cb19b
+39908	41474	8063096893778573	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_continuous.c.obj	3c3f14f3a447cb5e
+11223	13032	8063096606933743	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/debug/lwip_debug.c.obj	bd80dd169d6078be
+11340	13045	8063096608103278	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping/ping_sock.c.obj	ddfb321a4b6d4d7b
+35647	36260	8063096851162563	esp-idf/mbedtls/libmbedtls.a	e5530b07992011ad
+20516	21326	8063096699860922	esp-idf/hal/CMakeFiles/__idf_hal.dir/color_hal.c.obj	26d51eab5ee90a99
+41830	43249	8063096912997558	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_ops.c.obj	cd658118c5cb228
+12699	15018	8063096621685010	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition_lookup.cpp.obj	aca832e4e518a661
+11311	13149	8063096607812265	esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/acd_dhcp_check.c.obj	526e334e76e75752
+25653	26951	8063096751226324	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/hmac_drbg.c.obj	35820da18192e4ce
+12139	13260	8063096616094079	esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/esp32/phy_init_data.c.obj	8013ec8cafea6b24
+28687	30182	8063096781560349	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/7fb75ab65a5abb5d8b293beb3668251d/sha.c.obj	69bed7626b104644
+38042	38877	8063096875118503	esp-idf/esp_hal_rmt/CMakeFiles/__idf_esp_hal_rmt.dir/rmt_hal.c.obj	49d06dcb3644167c
+17361	19160	8063096668305440	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_clk_tree.c.obj	b37ee370baf9f7c0
+12058	13297	8063096615276520	esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_common.c.obj	f107a4ad1b2cc252
+56915	56985	8063097063847948	CMakeFiles/app_check_size	5e9d6f345b7e61fd
+12416	17731	8063096618858448	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_storage.cpp.obj	319b904fd1d92aa6
+11833	13559	8063096613028986	esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_eventfd.c.obj	57750fb2ea67cbe3
+25343	26185	8063096748123845	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/chacha20_neon.c.obj	73581069ae14ae87
+16202	17862	8063096656714355	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/stream_buffer.c.obj	331aa128af0a3b42
+11949	13585	8063096614192785	esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_semihost.c.obj	e266bfdb6a8017bf
+11819	13679	8063096612883623	esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_calls.c.obj	d8274a766e991e38
+48291	53150	8063096977600194	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+16944	18473	8063096664135407	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/intr_alloc.c.obj	1c77c2bdd9599633
+12164	13756	8063096616334752	esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/btbb_init.c.obj	26ae23e64b8a6e9a
+11974	13809	8063096614433489	esp-idf/vfs/CMakeFiles/__idf_vfs.dir/nullfs.c.obj	7568e102e4253532
+12072	13857	8063096615411910	esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_init.c.obj	2f09ed404c8d4f52
+19226	20504	8063096686961799	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/power_supply_periph.c.obj	cbc19ab1609214a4
+12781	13883	8063096622512403	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_platform.cpp.obj	743906871eea41e4
+22286	23517	8063096717559664	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_mxic.c.obj	d6d12e7430bdf89d
+12953	14026	8063096624236253	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_bootloader_aes.c.obj	b601e9b0a1dc2ccc
+44435	44717	8063096939051957	esp-idf/esp_hal_lcd/libesp_hal_lcd.a	c5783eca45cbdfc5
+53183	53256	8063097027201539	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/bootloader-complete	7d6d887c875e9b27
+13005	14249	8063096624751789	esp-idf/nvs_sec_provider/CMakeFiles/__idf_nvs_sec_provider.dir/nvs_sec_provider.c.obj	2f6fb5aafb0ceb31
+13384	14702	8063096628534279	esp-idf/lwip/liblwip.a	8c968cc324d7c8ef
+34457	35662	8063096839263319	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	140e0da512a8d7f3
+13032	14820	8063096625022235	esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/esp_event.c.obj	117d505759b86deb
+38183	39841	8063096876530011	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/legacy/src/sdmmc_host.c.obj	ce6e5217acfac9ee
+12807	14861	8063096622773277	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_bootloader.c.obj	a74b80965d81fcce
+13488	14876	8063096629572532	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer.c.obj	be266aaba6fc4018
+35976	37529	8063096854462204	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sd_pwr_ctrl/sd_pwr_ctrl.c.obj	8bce3bc32e61ec38
+21124	22286	8063096705942905	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_ipc.c.obj	80001253b6274104
+13756	14891	8063096632262008	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_common.c.obj	df9e201ea97fc869
+13679	14918	8063096631484136	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/system_time.c.obj	54977404946a7a82
+13560	14933	8063096630295264	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_init.c.obj	f7a11f67e565e63d
+13475	14946	8063096629452201	esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir/ringbuf.c.obj	c0ae6d4053cafcb8
+22231	23608	8063096717007851	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_drivers.c.obj	18f9555c0eb9f64d
+13260	14959	8063096627294938	esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src/uart_vfs.c.obj	e0b9a1d265d03de1
+14026	14973	8063096634957055	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_init.cpp.obj	7693605be4cf65b4
+28242	28787	8063096777117990	esp-idf/hal/libhal.a	f17b5455d791e3c3
+13857	14987	8063096633274943	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_exception_stubs.cpp.obj	c9899b767f147e39
+12684	15001	8063096621534295	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition.cpp.obj	88474bf2c93ac4a9
+14702	15066	8063096641713964	esp-idf/vfs/libvfs.a	6abcf32ab9a1e11d
+13809	15249	8063096632783375	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_lac.c.obj	b3eb0aaac55dee52
+17884	19070	8063096673542687	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/rtc_wdt.c.obj	79921b9685c0c04
+24108	25699	8063096735775631	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/wdt_hal_iram.c.obj	60bcf7e2e6bb0528
+13058	15308	8063096625273237	esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src/uart.c.obj	61971db195dd3a5b
+14959	15558	8063096644294853	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/termios.c.obj	527079ec125791bc
+36343	37977	8063096858126802	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_cmd.c.obj	db4eb98a29220e72
+17776	19184	8063096672462433	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_uart.c.obj	449c2d7a78e3bc68
+14946	15782	8063096644159300	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/getentropy.c.obj	af7bab65e1d60f9e
+15843	16944	8063096653135013	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/picolibc/getreent.c.obj	5b0c15045b9ad33a
+29902	30812	8063096793714833	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/version_features.c.obj	1063ba1f68b0c691
+14876	15796	8063096643460459	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/heap.c.obj	2c1c3ff92778e7cd
+32104	32201	8063096815737601	esp-idf/esp_hal_timg/libesp_hal_timg.a	9908ebfd3457d042
+14861	15828	8063096643314928	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/assert.c.obj	9f979c5a9d4fdb3f
+33784	34034	8063096834860791	esp-idf/mbedtls/x509_crt_bundle	8c0613c8e5c0b80
+44896	45030	8063096943657451	esp-idf/esp_driver_sdmmc/libesp_driver_sdmmc.a	75fb99ea97873694
+14905	15843	8063096643751518	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/poll.c.obj	7f54235c3dc0ffc3
+14835	15865	8063096643048885	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/init.c.obj	41ffd69aa608e11
+14933	16047	8063096644023779	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/random.c.obj	2e7aa1e6221c759b
+14849	16064	8063096643184495	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/abort.c.obj	f5c119b78e40ff4a
+22306	23653	8063096717750331	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_gd.c.obj	f8b211ecbba0676a
+14919	16134	8063096643882133	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/pthread.c.obj	69ce01681b61f748
+15019	16160	8063096644887299	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/realpath.c.obj	36f8104f0a1fe0a7
+28871	30075	8063096783410062	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/mps_reader.c.obj	1e7acaed734280d3
+41036	43085	8063096905059905	esp-idf/esp_driver_twai/CMakeFiles/__idf_esp_driver_twai.dir/esp_twai_onchip.c.obj	4d2ab1a87f6c4783
+15002	16174	8063096644716298	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/sysconf.c.obj	5ed40b2abd90bf85
+34288	35141	8063096837577669	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal.c.obj	96c7731c5a043cae
+14891	16188	8063096643607496	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/locks.c.obj	2214602cec815ca4
+43191	44280	8063096926607743	esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_hydrogen.c.obj	52b3da23093e8b35
+13883	16201	8063096633535715	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_guards.cpp.obj	2f88407bb01862a8
+18336	19454	8063096678062323	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj	30e11123e1e15b8
+37585	38716	8063096870537295	esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_runner.c.obj	2d296949b29f37c3
+15522	16649	8063096649917063	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/reent_syscalls.c.obj	480771d94769d7af
+22071	23503	8063096715407664	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/clk.c.obj	36321bb257a96b51
+15814	16680	8063096652833914	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/picolibc/errno.c.obj	fc3f7146589e50c8
+37697	38611	8063096871660908	esp-idf/esp_hal_twai/CMakeFiles/__idf_esp_hal_twai.dir/esp32/twai_periph.c.obj	e979a019a053563d
+53183	53256	8063097027201539	CMakeFiles/bootloader-complete	7d6d887c875e9b27
+12194	16697	8063096616635829	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_cxx_api.cpp.obj	45779b075a148280
+15865	16745	8063096653350809	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/picolibc/fopencookie.c.obj	f663cc697cd5a94c
+19466	21418	8063096689362972	esp-idf/heap/CMakeFiles/__idf_heap.dir/tlsf/tlsf.c.obj	712b249ef6f90199
+15558	16770	8063096650283513	esp-idf/esp_libc/CMakeFiles/__idf_esp_libc.dir/src/picolibc/picolibc_init.c.obj	93696b60992c747b
+12220	16820	8063096616901856	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_item_hash_list.cpp.obj	3f2e03376fc67f07
+12260	17055	8063096617303173	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_pagemanager.cpp.obj	997cd8d2a2b30ed9
+19198	20606	8063096686685654	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/emac_periph.c.obj	f2ed624cc72c3452
+12714	17197	8063096621835393	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition_manager.cpp.obj	9b47ec9fcca1c3fb
+44348	44618	8063096938177327	esp-idf/protobuf-c/libprotobuf-c.a	6fa3d3c1c36e0301
+16387	17269	8063096658560849	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/portasm.S.obj	bffc8294c8d45cd1
+25769	27081	8063096752385479	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_ffdh.c.obj	e9664b18dd5ce983
+34310	35038	8063096837798361	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/esp32/uart_periph.c.obj	5315d28c8e3300d8
+44665	44810	8063096941353780	esp-idf/esp_driver_ledc/libesp_driver_ledc.a	fad1691352de0c5d
+19120	20491	8063096685892934	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32/sdm_periph.c.obj	80491b0f98bb5a4d
+16086	17284	8063096655558563	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_systick.c.obj	2e6d459309b07c33
+16064	17361	8063096655332629	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_common.c.obj	799d4824a512a5be
+41182	41712	8063096906518876	esp-idf/esp_app_format/libesp_app_format.a	aa3e5409ed886d04
+42988	44223	8063096924586319	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/port/freertos/ffsystem.c.obj	c4aac9d58697027a
+15985	17374	8063096654550153	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/heap_idf.c.obj	d75d52c4f8f59897
+25594	26593	8063096750633625	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/entropy_poll.c.obj	4b1ff18c7da61187
+16421	17387	8063096658907026	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_init.c.obj	a4b1ce2fd4a1a36f
+21730	22258	8063096712006025	esp-idf/esp_timer/libesp_timer.a	cd8dc903363d0ad
+16047	17425	8063096655162423	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/app_startup.c.obj	6219f9b4ea0ca64e
+17761	20397	8063096672310694	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modes.c.obj	f53bc0ddef6a4365
+26883	28507	8063096763525735	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/pk_rsa.c.obj	71990daee31a0003
+12887	17700	8063096623573344	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_encrypted_partition.cpp.obj	65c60c57fb46716f
+25318	26657	8063096747878172	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ccm.c.obj	552bb612ca0ccfb8
+35067	36029	8063096845363722	esp-idf/esp_hal_security/CMakeFiles/__idf_esp_hal_security.dir/mpu_hal.c.obj	7ecf533bf4ecdb58
+48291	53150	8063096977600194	bootloader/bootloader.elf	ec7e2a471f978adf
+12765	17712	8063096622341888	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_types.cpp.obj	f77abcbad1a30c4a
+44320	44571	8063096937896494	esp-idf/esp_hal_sd/libesp_hal_sd.a	a634fd2d53ac193a
+12650	17761	8063096621193227	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_handle_simple.cpp.obj	52aed5d5c8bc3b43
+25383	26629	8063096748535023	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/cipher_wrap.c.obj	e5905d74d824a9ea
+38784	40249	8063096882539476	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/transports/protocomm_console.c.obj	53d33a5690c78c8c
+16731	17792	8063096662013034	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	6e6a222a56a1aae4
+24486	26735	8063096739554312	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/bignum_core.c.obj	a7c170f18818e4d8
+18301	20292	8063096677715913	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj	9528b894c39c7619
+40648	42360	8063096901179685	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_rx.c.obj	9398b39ed157875b
+16367	17810	8063096658360175	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/port.c.obj	bb3db8d80e7bece5
+33784	34034	8063096834860791	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/x509_crt_bundle	8c0613c8e5c0b80
+28618	29885	8063096780877703	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/2bd7adcb58e61f9264e248088bf9f3b6/psa_crypto_driver_esp_hmac_transparent.c.obj	8f3537cf5032ab9a
+16188	17847	8063096656584000	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/event_groups.c.obj	7a33a95e95085b2c
+16161	17986	8063096656306443	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/tasks.c.obj	c2dbd1dd509f004b
+12180	18021	8063096616495466	esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_api.cpp.obj	94fe2c34ce6e792e
+18097	20237	8063096675673859	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj	874b2637f23bac82
+16680	18064	8063096661506153	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	870f3f9fd173f20e
+16698	18079	8063096661676906	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_cpu_intr.c.obj	b2526ef243f5e09c
+16601	18097	8063096660713129	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/idf_additions_event_groups.c.obj	9c7ba5ae5ef05b10
+17305	18301	8063096667747900	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_gpio_reserve.c.obj	ad53113a7a2c6bc9
+17198	18322	8063096666675014	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/revision.c.obj	c18b8ea59f047056
+21366	22722	8063096708362641	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/esp_ipc_isr.c.obj	3789d2ebb4627870
+22786	24334	8063096722549849	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	d6633cf1665376b0
+40221	41860	8063096896907774	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_fault.c.obj	2c6a108bd96ac929
+16835	18349	8063096663051882	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/hw_random.c.obj	1f48df55592c1f53
+27104	28768	8063096765737665	esp-idf/mbedtls/mbedtls/tf-psa-crypto/platform/CMakeFiles/platform.dir/threading.c.obj	fb34beea5291a628
+17021	18556	8063096664902607	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mac_addr.c.obj	604a000d74fe376c
+17792	18635	8063096672622249	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_console.c.obj	a128a173ff8a438
+33453	33671	8063096829227274	esp-idf/mbedtls/mbedtls/library/libmbedtls.a	a7b10b97b53cbc17
+41750	43216	8063096912200171	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_io.c.obj	b9d43c6a2c86a78e
+17387	18661	8063096668561368	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/heap_align_hw.c.obj	5fb80d9132e201ff
+18021	18766	8063096674906244	esp-idf/nvs_flash/libnvs_flash.a	49a32e83457cb6f1
+17712	19120	8063096671812712	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/spi_share_hw_ctrl.c.obj	ad1a3d010dc6e409
+40476	42050	8063096899453489	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_bytes.c.obj	5899a12503f15314
+17284	19133	8063096667542562	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/regi2c_ctrl.c.obj	7c2b47fce5576c9c
+18038	20200	8063096675076944	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_wake_stub.c.obj	7f2175d0fc704ed5
+38580	38977	8063096880499302	esp-idf/esp_security/libesp_security.a	c819aac58933ae3e
+17425	19146	8063096668937631	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_utils.c.obj	7a5f6298590be7b0
+22382	23444	8063096718527326	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_th.c.obj	eb4508e9fa68613f
+44485	44731	8063096939538339	esp-idf/esp_blockdev_util/libesp_blockdev_util.a	d80a980c9f55777f
+27718	29131	8063096771879162	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_crypto_storage.c.obj	f47760ba5f84ef94
+34978	35976	8063096844475676	esp-idf/esp_hal_security/CMakeFiles/__idf_esp_hal_security.dir/sha_hal.c.obj	1360ca5a33e44d55
+17269	19172	8063096667392428	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/rtc_module.c.obj	a3b8504fbec495e8
+28807	30335	8063096782762203	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/5b22c22e47e183be4efad58a3b712a9c/psa_crypto_driver_esp_aes_gcm.c.obj	262a28a4e19c2f8a
+17374	19302	8063096668435836	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/spi_bus_lock.c.obj	9ff2ec6e70fbb9e2
+18767	19386	8063096682361675	esp-idf/nvs_sec_provider/libnvs_sec_provider.a	5e6c084fd57a93b3
+18661	19401	8063096681306969	esp-idf/esp_hal_touch_sens/CMakeFiles/__idf_esp_hal_touch_sens.dir/esp32/touch_sensor_periph.c.obj	771969a8a22977e8
+38977	39568	8063096884461628	esp-idf/efuse/libefuse.a	3f670f0a1801e53d
+17986	19435	8063096674559965	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_tuning/mspi_timing_tuning.c.obj	1c0466e2a7d2bd37
+40289	41830	8063096897586906	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_sync.c.obj	434a218abf719937
+18473	19466	8063096679433788	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj	3fa349ef4be67247
+35259	36214	8063096847285343	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal.c.obj	86618855fcc740a7
+19012	20408	8063096684824297	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/brownout_hal.c.obj	a75e5756c8a126d4
+18323	20225	8063096677921717	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj	57cd8e42b60f4557
+18570	20250	8063096680397611	esp-idf/esp_hal_touch_sens/CMakeFiles/__idf_esp_hal_touch_sens.dir/touch_sensor_legacy_hal.c.obj	fd05cfb933bea7b8
+25953	27156	8063096754216912	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_util_internal.c.obj	f32ee3284600c443
+18486	20305	8063096679559344	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cache_sram_mmu.c.obj	57172b50d4e3b499
+17847	20316	8063096673173407	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_gpio.c.obj	d486675d756067
+21093	22086	8063096705626740	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/crosscore_int.c.obj	554823a882e05827
+26735	27813	8063096762050793	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/nist_kw.c.obj	39f4f5804ee555ce
+29841	30992	8063096793113170	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/timing.c.obj	b533e270ec06e22
+18556	20360	8063096680262075	esp-idf/esp_hal_touch_sens/CMakeFiles/__idf_esp_hal_touch_sens.dir/esp32/touch_sensor_legacy_hal.c.obj	428a45686bfa9160
+19051	20384	8063096685205685	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/rtc_io_hal.c.obj	2b2570264a454ff0
+40905	43044	8063096903740121	esp-idf/esp_driver_touch_sens/CMakeFiles/__idf_esp_driver_touch_sens.dir/common/touch_sens_common.c.obj	b70c5e66562cf84f
+25502	26409	8063096749715054	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/entropy.c.obj	1e5ef1bfbc6c2cec
+36522	37919	8063096859926280	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_hashtable.c.obj	7bca34e5551e9e1e
+19134	20437	8063096686038466	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	8b2e3d4aa4e1d201
+19084	20477	8063096685536762	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/sdm_hal.c.obj	3dc52bfd2fa14cb7
+19037	20529	8063096685075194	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/gpio_hal.c.obj	e82a7887715c8d0a
+19386	20577	8063096688562970	esp-idf/esp_event/libesp_event.a	4f259e577e10142
+20464	21405	8063096699334049	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	5d09d63961fc676d
+19303	21060	8063096687724825	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_base.c.obj	b5cd7ccf3cbc1c91
+19401	21078	8063096688713392	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps.c.obj	c626113a357786b5
+31008	31127	8063096805853305	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update	e6d3926b6068a674
+20292	21124	8063096697624389	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/util.c.obj	7fba5133a8e839b0
+44358	44631	8063096938277610	esp-idf/unity/libunity.a	2e05abac79dd4d83
+20201	21137	8063096696706519	esp-idf/heap/CMakeFiles/__idf_heap.dir/port/memory_layout_utils.c.obj	5d3e090a111b9476
+26594	27873	8063096760636267	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/p256-m/CMakeFiles/p256-m.dir/p256-m/p256-m.c.obj	161bec61dc79a81f
+20397	21164	8063096698672800	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/tag_log_level.c.obj	8903a15585ac4ecd
+20238	21259	8063096697072742	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	d9325bfbb253eae9
+19454	21232	8063096689237713	esp-idf/heap/CMakeFiles/__idf_heap.dir/multi_heap.c.obj	e5af2479cbf5922d
+20408	21246	8063096698782787	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/linked_list/log_linked_list.c.obj	4a60bf5e020745fd
+21704	22737	8063096711734832	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_stubs.c.obj	cd53768610df2cde
+20225	21285	8063096696952348	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_timestamp.c.obj	d82ee8de2e32c02d
+39858	41459	8063096893276791	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_cosine.c.obj	7592418f361faa0
+20551	21379	8063096700207283	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	f8a4c2b6459a715a
+21046	21392	8063096705149841	esp-idf/esp_psram/libesp_psram.a	5028f9a8ad01728b
+42122	43326	8063096915917041	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/diskio/diskio_rawflash.c.obj	9f76c1986aca9638
+20477	21493	8063096699474658	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/efuse_hal.c.obj	142aba7d4f819c75
+21326	22800	8063096707951080	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/esp_system_chip.c.obj	b0e27d5d7f00175a
+20619	21678	8063096700884452	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	f5cab758c4bfc3be
+20980	21691	8063096704493007	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	5a0e28b125aed2d6
+20530	21704	8063096699996540	esp-idf/hal/CMakeFiles/__idf_hal.dir/emac_hal.c.obj	a71b0514f3d6cccf
+28858	30147	8063096783274560	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.obj	89d9cb562a4e4112
+22145	23744	8063096716139675	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/system_internal.c.obj	273ae52a5fc6367d
+20564	21717	8063096700337705	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	f1d9980c96f32f9b
+35116	36303	8063096845860389	esp-idf/esp_hal_mspi/CMakeFiles/__idf_esp_hal_mspi.dir/spi_flash_hal.c.obj	9e825b05dae3073b
+48291	53150	8063096977600194	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.map	ec7e2a471f978adf
+21232	22203	8063096707026438	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/stack_check.c.obj	ce4c8e8c727d0e25
+21312	22688	8063096707815658	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/panic_handler.c.obj	59dab86bb3915b01
+37570	38454	8063096870396943	esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_compat.c.obj	25a9c962df1d4be7
+21418	22231	8063096708874015	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_routines.S.obj	4510990e5e7d9406
+21137	22244	8063096706073112	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/freertos_hooks.c.obj	bc0c8bc3de53c2a9
+21604	22359	8063096710736390	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack_asm.S.obj	7e785a1de3a9a49d
+40839	43190	8063096903098063	esp-idf/esp_driver_sdio/CMakeFiles/__idf_esp_driver_sdio.dir/src/sdio_slave.c.obj	fef4997666c98e42
+22602	23168	8063096720718083	esp-idf/pthread/libpthread.a	fc2357917635bc6c
+21206	22512	8063096706750392	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/startup_funcs.c.obj	b886274f07a16e7d
+44734	44925	8063096942031082	esp-idf/spiffs/libspiffs.a	f0bf2e60a248a657
+21353	22537	8063096708227002	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/image_process.c.obj	94b439e55cd3d546
+26847	28321	8063096763160705	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/pk_ecc.c.obj	e78deaa1bc9ded1c
+21453	22571	8063096709226065	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/panic_arch.c.obj	762493bbb2c7ea2
+21745	22629	8063096712151462	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/highint_hdl.S.obj	ecfcf675b88610ba
+24819	25912	8063096742888901	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/camellia.c.obj	a73beb92e13df938
+21717	22897	8063096711860399	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/trax.c.obj	6ab280047f783d82
+21566	22933	8063096710360110	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack.c.obj	a229aec66bb29f0f
+22217	23049	8063096716862339	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_brownout_hook.c.obj	8f640ddeacb1854c
+21297	23063	8063096707658509	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/cpu_start.c.obj	ff195c009bdc0680
+22203	23397	8063096716726778	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/cache_err_int.c.obj	497ed85b527bcbc1
+27827	28960	8063096772963370	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/tf_psa_crypto_version.c.obj	b1e9a97cf8fec018
+34347	35827	8063096838164481	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/rtc_io.c.obj	9560be51e2547f02
+35689	37667	8063096851579034	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_cmd.c.obj	cb0f50b3bdca3abb
+22274	23567	8063096717434142	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_issi.c.obj	4ba26dade167f009
+22400	23759	8063096718698068	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/memspi_host_driver.c.obj	a9b67297370f1e60
+22512	23877	8063096719824760	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_blockdev.c.obj	31a121ff43568298
+23760	25369	8063096732293541	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal.c.obj	924aa5ebb5e536a1
+22245	24035	8063096717138206	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_generic.c.obj	ba360bc23f96076e
+22800	24049	8063096722695553	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	ad046cf6d53cc88c
+23252	25383	8063096727215086	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	3f32feb905bd320f
+26629	27733	8063096760987601	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/pqcp/CMakeFiles/pqcp.dir/src/wrap_mldsa_native.c.obj	3bff8fb92fab01fa
+26494	28170	8063096759637798	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/sha3.c.obj	4e43c6970dc05d95
+31397	31649	8063096808662379	esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a	aa8b93dddf17b0fb
+22550	24203	8063096720196361	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_mmap.c.obj	7f6d1c1c9cc67fa6
+22537	24362	8063096720060660	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/cache_utils.c.obj	acb2bf3d49eaf83a
+38125	39748	8063096875952932	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/legacy/src/sdmmc_transaction.c.obj	b45f3b25e00b0eaa
+22933	24383	8063096724025342	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	eb75e3739020dd47
+21060	24403	8063096705295579	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	e938db68010cc46
+22701	24436	8063096721706952	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_os_func_app.c.obj	2efbc78df0c7caf1
+22688	24486	8063096721576526	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_spi_init.c.obj	c4b5aa790d533eea
+39952	41331	8063096894220657	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_common.c.obj	a14f9727eaea97c8
+23517	25429	8063096729874302	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	2333c4595ad1c390
+44389	44665	8063096938579765	esp-idf/esp_hal_ledc/libesp_hal_ledc.a	da30c35079cc2b2a
+23063	24500	8063096725334062	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj	b08ea086891b1993
+23653	24702	8063096731229903	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32/adc_periph.c.obj	962871596d13968c
+22738	24715	8063096722073242	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	c34da70a34ad8380
+24093	24793	8063096735625040	esp-idf/freertos/libfreertos.a	281c6ba221ce5195
+24793	25258	8063096742628262	esp-idf/esp_hw_support/libesp_hw_support.a	5df1bb8eba44a776
+24049	25317	8063096735193793	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/esp32/mwdt_periph.c.obj	173df38872cebe89
+23678	25331	8063096731475768	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal_common.c.obj	c75e4b429a2b1f76
+29550	30808	8063096790203816	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_client.c.obj	469d09da6a809ad1
+43217	44734	8063096926863811	esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/esp_spiffs.c.obj	7ceb52f826de5f30
+22897	25343	8063096723674261	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	e49eead24276a8ff
+23049	25356	8063096725193715	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	b5d7aebda45e51ec
+37978	39021	8063096874475965	esp-idf/esp_hal_pcnt/CMakeFiles/__idf_esp_hal_pcnt.dir/pcnt_hal.c.obj	7922184864a704b3
+25370	26883	8063096748384589	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/cipher.c.obj	7be48afba23ff691
+23877	25410	8063096733462686	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32/dac_periph.c.obj	dead64fa0425e7d3
+23608	25443	8063096730773561	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/secure_boot_secure_features.c.obj	7508e7fd5fce159a
+23035	25473	8063096725053522	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	54019b7b9e1ebcde
+23444	25501	8063096729137037	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32.c.obj	d4902ebafc4dd85
+24036	25594	8063096735053456	esp-idf/esp_hal_i2s/CMakeFiles/__idf_esp_hal_i2s.dir/esp32/i2s_periph.c.obj	5b45c1a08066fe35
+24334	25631	8063096738037579	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/everest/CMakeFiles/everest.dir/library/x25519.c.obj	d551b0a9f613a77
+24403	25653	8063096738726875	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/aesni.c.obj	777c06684a34267e
+24437	25712	8063096739063125	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/aria.c.obj	632a6788574f381a
+34445	35444	8063096839137835	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	d30647da90b80163
+24154	25726	8063096736237117	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/timer_hal.c.obj	d377c22bc89c4b8b
+26615	27827	8063096760857120	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/pqcp/CMakeFiles/pqcp.dir/src/psa_crypto_mldsa.c.obj	2f25667033eb9487
+27429	29061	8063096768994592	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/CMakeFiles/utilities.dir/pkcs5.c.obj	be35d576ffffc700
+24203	25739	8063096736733589	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/esp32/timer_periph.c.obj	408e3a97bcccc634
+24383	25769	8063096738526215	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/aesce.c.obj	c31b270b4e2b296d
+24501	25883	8063096739704974	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/bignum_mod.c.obj	f3166c2e7ceb8777
+23504	25896	8063096729733741	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	c4966d974acfa132
+24715	25925	8063096741850106	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/block_cipher.c.obj	f063f6700ab23705
+25580	25938	8063096750498376	esp-idf/esp_hal_pmu/libesp_hal_pmu.a	d4848263a221159b
+23567	25952	8063096730362362	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	1c744f9d3e7bea8b
+25331	26120	8063096748003455	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/chacha20.c.obj	92278ddac0bdcaa5
+25487	26508	8063096749563679	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ecp_curves_new.c.obj	d019a2fc292f13a
+25443	26521	8063096749137123	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ecjpake.c.obj	70daf83ac9534795
+38943	40235	8063096884125567	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/WL_Ext_Safe.cpp.obj	8566dfdeb084c2cc
+24362	26643	8063096738315465	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/aes.c.obj	a8bb5637db03044
+31649	31892	8063096811185295	esp-idf/esp_hal_i2s/libesp_hal_i2s.a	90a7a1ccdf251e65
+25429	26803	8063096748986797	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ecdsa.c.obj	93e3a5228c161637
+25473	26847	8063096749428186	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ecp_curves.c.obj	f37fac457bec81eb
+24472	26965	8063096739413806	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/bignum.c.obj	c3d5426ecf57921e
+41417	42822	8063096908862594	esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/mac/esp_eth_mac_esp_dma.c.obj	a3ae3d8dc819b56d
+34322	36134	8063096837923748	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/gpio.c.obj	457fc536f4e0bf4d
+25967	26996	8063096754362418	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ripemd160.c.obj	a86f59b6c4d5e39a
+25631	27104	8063096751014419	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/gcm.c.obj	87632d5fc04f9d4f
+25410	27127	8063096748796128	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ctr_drbg.c.obj	3c54ace48965c027
+34530	35522	8063096840005635	esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir/partition_target.c.obj	aa4c78bfb4814140
+25925	27143	8063096753950875	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_xof.c.obj	e0b0124a7992d944
+25726	27170	8063096751963923	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_cipher.c.obj	fa148908cd674ea5
+43030	44704	8063096924997436	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/vfs/vfs_fat_sdmmc.c.obj	ea63768b4940750b
+25739	27339	8063096752084346	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_ecp.c.obj	c277cf22e7528bf2
+26185	27429	8063096756551530	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/sha1.c.obj	63d51da783971f1c
+37991	39034	8063096874606561	esp-idf/esp_hal_pcnt/CMakeFiles/__idf_esp_hal_pcnt.dir/esp32/pcnt_periph.c.obj	abaa124bdf85c8bc
+26143	27484	8063096756124966	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/rsa_alt_helpers.c.obj	e40153596d773739
+26936	27548	8063096764061948	esp-idf/heap/libheap.a	7c778d10c3035685
+44329	44595	8063096937986770	esp-idf/esp_driver_spi/libesp_driver_spi.a	2da808e71737905a
+25912	27564	8063096753815526	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/psa_crypto_rsa.c.obj	87feb45cab0a7473
+25459	27653	8063096749287851	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/ecp.c.obj	8936e08134be8978
+26644	27800	8063096761137943	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/lmots.c.obj	97308ae2ebe829c3
+26657	27847	8063096761263536	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/lms.c.obj	ed9037bd8918dc58
+34034	34171	8063096836319399	x509_crt_bundle.S	a7fb6ed47d8c2132
+26522	27905	8063096759908886	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/p256-m/CMakeFiles/p256-m.dir/p256-m_driver_entrypoints.c.obj	1930c0ff5eb6e306
+26409	28058	8063096758794682	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/sha256.c.obj	97c0ed0b3cc8ee76
+26120	28227	8063096755899392	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/CMakeFiles/builtin.dir/src/rsa.c.obj	a97c98a734c5a52e
+26671	28460	8063096761403966	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/md.c.obj	941d69932c2283e8
+27068	28618	8063096765376430	esp-idf/mbedtls/mbedtls/tf-psa-crypto/platform/CMakeFiles/platform.dir/platform.c.obj	ac8cdcf92918c606
+43057	44119	8063096925263285	esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_access.c.obj	fd3f46bbb9abf4b2
+27564	28665	8063096770339573	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_crypto_random.c.obj	2f9de6da2b1f1d5f
+28884	30197	8063096783540597	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/mps_trace.c.obj	1f58df283c888435
+27081	28701	8063096765506931	esp-idf/mbedtls/mbedtls/tf-psa-crypto/platform/CMakeFiles/platform.dir/platform_util.c.obj	d6ebe74d99952ae4
+26951	28715	8063096764213510	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/pk_wrap.c.obj	defe003dfe5205c4
+38769	39618	8063096882379065	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/session.pb-c.c.obj	12486ae778f9b027
+27156	28807	8063096766260162	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/CMakeFiles/utilities.dir/base64.c.obj	bd330faf9abbf082
+27339	28858	8063096768084601	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/CMakeFiles/utilities.dir/pem.c.obj	7dac165c51dbebcf
+38801	40476	8063096882710261	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/transports/protocomm_httpd.c.obj	77f5f03eeae731d4
+26803	28884	8063096762724147	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/CMakeFiles/extras.dir/pk.c.obj	53a33282584fd154
+44338	44617	8063096938087118	esp-idf/console/libconsole.a	812a12632732a43
+27263	28897	8063096767328007	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/CMakeFiles/utilities.dir/oid.c.obj	47a8993b27d97664
+27813	29009	8063096772827419	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/tf_psa_crypto_config.c.obj	ec53fceca4b85899
+27485	29074	8063096769536486	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_crypto_client.c.obj	eb26ac340883550f
+28058	29118	8063096775287094	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/23c3aaa47cdabb4d829a9ab4c1188944/aes/esp_aes_xts.c.obj	290029eacc22d311
+27905	29191	8063096773750893	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/23c3aaa47cdabb4d829a9ab4c1188944/esp_hardware.c.obj	2c82df11c4e569e0
+27653	29279	8063096771236818	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_crypto_slot_management.c.obj	67cf42daefaa6260
+44679	44867	8063096941479244	esp-idf/esp_driver_mcpwm/libesp_driver_mcpwm.a	f1135f3b781a4e61
+27800	29352	8063096772697009	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_util.c.obj	2fa0ecac77fb175b
+27848	29460	8063096773179048	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/psa_crypto_driver_wrappers_no_static.c.obj	4528fc70d6d7b000
+28897	30434	8063096783676167	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.obj	e10dac90ed3e7709
+28171	29691	8063096776405532	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/9c4937b0da6cfb03f8d3f82133471cb3/esp_aes_common.c.obj	fb4454d624a68de5
+29160	29759	8063096786294274	esp-idf/esp_common/libesp_common.a	b545af55b7678492
+28750	29841	8063096782194257	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/702ab148eace2248c773e9ddee579c50/bignum_alt.c.obj	ae0ed76d0df1cd04
+45030	45156	8063096944996906	esp-idf/fatfs/libfatfs.a	f61c558f36176daf
+28701	29901	8063096781706305	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/d8b0c3448e0ae89f93528f866c70f108/psa_crypto_driver_esp_md5.c.obj	5de9d9849f5ec0fc
+44496	44732	8063096939663799	esp-idf/esp_driver_cam/libesp_driver_cam.a	5c6fcd9d1ee39ad3
+28604	29932	8063096780742004	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/17d9d9314ea856295f0f412fc7032686/port/sha/esp_sha.c.obj	eade379b8808a8ab
+28227	29948	8063096776962469	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/17d9d9314ea856295f0f412fc7032686/port/aes/esp_aes.c.obj	18ee9fa79f365481
+30275	31493	8063096797451865	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_csr.c.obj	d59a4ba5539ac0a4
+28257	29978	8063096777263535	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/23c3aaa47cdabb4d829a9ab4c1188944/aes/esp_aes_gcm.c.obj	b8fa9fa46492d638
+28460	29991	8063096779300588	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/91fb75fc2c9efc1b170ae5c49451e1ee/psa_crypto_driver_esp_sha256.c.obj	8ba13e3494684010
+28507	30167	8063096779762716	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/91fb75fc2c9efc1b170ae5c49451e1ee/psa_crypto_driver_esp_sha512.c.obj	aaf5c1cbd5137fff
+28666	30211	8063096781354534	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/91fb75fc2c9efc1b170ae5c49451e1ee/psa_crypto_driver_esp_sha1.c.obj	8f42d3ba42f6f2c3
+28960	30261	8063096784305792	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.obj	50559981a189fc67
+28843	30275	8063096783128890	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/2bd7adcb58e61f9264e248088bf9f3b6/psa_crypto_driver_esp_cmac.c.obj	f4493aefb76ed831
+28715	30418	8063096781836973	esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/CMakeFiles/tfpsacrypto.dir/702ab148eace2248c773e9ddee579c50/esp_bignum.c.obj	943843c1accff306
+29759	30458	8063096792294820	esp-idf/esp_system/libesp_system.a	e51f48496b88ff4
+29075	30507	8063096785440349	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_debug_helpers_generated.c.obj	9bb6643eee46d598
+29009	30620	8063096784792601	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_client.c.obj	e5eb3a7c20a874e3
+29352	30686	8063096788215737	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.obj	929538eed41712cf
+43015	44732	8063096924851851	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/vfs/vfs_fat.c.obj	aab03038529281f8
+30434	30714	8063096801286437	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir	9b672de5a2a1e4cc
+29691	30844	8063096791603026	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_generic.c.obj	9046c264c47c1d20
+29948	30921	8063096794186520	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/C_/esp/v6.0.2/esp-idf/components/mbedtls/port/esp_platform_time.c.obj	eee78ba2669ba50e
+30714	31008	8063096804508686	bootloader-prefix/src/bootloader-stamp/bootloader-download	e868c1390ffd0f66
+36134	37556	8063096856042977	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_dma.c.obj	4f49356f76a3756c
+30714	31008	8063096804508686	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download	e868c1390ffd0f66
+30147	31025	8063096796177684	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/mbedtls_config.c.obj	12e4217053ed9bf8
+30458	31044	8063096799274372	esp-idf/spi_flash/libspi_flash.a	722f8208c8a00d9
+31008	31127	8063096805853305	bootloader-prefix/src/bootloader-stamp/bootloader-update	e6d3926b6068a674
+29885	31190	8063096793553837	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/version.c.obj	f41f1c0e8d6608aa
+29978	31191	8063096794477577	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/17d9d9314ea856295f0f412fc7032686/port/esp_psa_crypto_init.c.obj	e137865f3226b812
+37897	38930	8063096873677359	esp-idf/esp_hal_mcpwm/CMakeFiles/__idf_esp_hal_mcpwm.dir/mcpwm_hal.c.obj	129f2b53f1f05aa2
+29279	31260	8063096787490476	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls12_server.c.obj	57cb71911c802c7
+34788	35787	8063096842574867	esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.obj	2af941fd51f2e7a4
+31127	31278	8063096807378966	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch	3917dc6143fde991
+30198	31294	8063096796674376	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_create.c.obj	43b965f244d9fabd
+30350	31324	8063096798195843	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write.c.obj	bc7147fe378b6497
+30418	31326	8063096798878515	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write_csr.c.obj	a655b98278cabb7c
+30076	31345	8063096795459759	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/error.c.obj	8ada8c768a5f6de6
+37529	38783	8063096869995623	esp-idf/esp_driver_sd_intf/CMakeFiles/__idf_esp_driver_sd_intf.dir/sd_host.c.obj	2f5e32110827e395
+30168	31392	8063096796363267	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/pkcs7.c.obj	e9695394aa1412de
+30212	31446	8063096796814553	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_crl.c.obj	91cdcb86a762ecf9
+44508	44733	8063096939779219	esp-idf/esp_driver_dac/libesp_driver_dac.a	eb2f662c22920932
+29146	31595	8063096786163792	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.obj	eb2e3119a2f700ff
+38878	39908	8063096883478369	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/BDL_Access.cpp.obj	814bfc58c6d1beb7
+30261	32087	8063096797306373	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_crt.c.obj	dc71b20dac3716c6
+31892	32104	8063096813618931	esp-idf/esp_hal_wdt/libesp_hal_wdt.a	850d022cd7177779
+32302	32545	8063096817714176	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/libmbed-builtin.a	5697f10caa28c9fa
+32545	32655	8063096820150852	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/p256-m/libp256-m.a	3a0991e0ba289412
+32656	32742	8063096821253699	esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/pqcp/libpqcp.a	f26d82177b653126
+32742	32852	8063096822118865	esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/libextras.a	44c639624fab109a
+32950	33065	8063096824199211	esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/libutilities.a	c27406709a0e38c9
+33671	33784	8063096831409383	esp-idf/mbedtls/mbedtls/library/libmbedx509.a	d859e135d05fd169
+34195	35067	8063096836637637	esp-idf/esp_driver_dma/CMakeFiles/__idf_esp_driver_dma.dir/src/esp_dma_utils.c.obj	5311890274f5cdb2
+34203	35116	8063096836727806	esp-idf/esp_driver_dma/CMakeFiles/__idf_esp_driver_dma.dir/src/gdma_link.c.obj	e803f286325dad70
+34257	35232	8063096837261236	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_locks.c.obj	efdffc3dcee94c58
+34335	35245	8063096838039001	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/gpio_glitch_filter_ops.c.obj	99b4dbe5567b671d
+39234	40532	8063096887036894	esp-idf/esp_driver_gptimer/CMakeFiles/__idf_esp_driver_gptimer.dir/src/gptimer_common.c.obj	a7085621253e85e2
+34237	35258	8063096837060684	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_cache_utils.c.obj	1dcc72b74e6bcd03
+34396	35270	8063096838655578	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj	2f6dbbd97bf9de9e
+44399	44679	8063096938690120	esp-idf/esp_hal_mcpwm/libesp_hal_mcpwm.a	d459275754dfe610
+35788	37653	8063096852579144	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_common.c.obj	45113323997c83dd
+41331	43098	8063096908009195	esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_netif_glue.c.obj	d56a9b218116120c
+34630	35483	8063096840994865	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	7f4641bb4bd8c6d3
+34408	35497	8063096838776702	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj	84d14e90fbe19c7b
+34505	35590	8063096839744820	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_startup.c.obj	9a3b80031f1f6235
+39568	40145	8063096890378729	esp-idf/esp_partition/libesp_partition.a	a4e70908a48c2537
+34470	35619	8063096839398850	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/b70c26e909530b93ecaa41ee53fceb0e/three_key_blocks/esp_efuse_api_key.c.obj	1d23cb4f08c342fc
+34277	35633	8063096837462270	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_impl.c.obj	e424edef831156ed
+34179	35647	8063096836484600	esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle/esp_crt_bundle.c.obj	36da56569da221cb
+44704	44867	8063096941740053	esp-idf/esp_driver_rmt/libesp_driver_rmt.a	ec808bd7acf641fd
+37780	38865	8063096872499136	esp-idf/esp_hal_ledc/CMakeFiles/__idf_esp_hal_ledc.dir/ledc_hal.c.obj	b476c4244f0d128b
+34433	35688	8063096839027498	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	d41a5e4eaf3841b8
+34808	35801	8063096842785423	esp-idf/esp_hal_security/CMakeFiles/__idf_esp_hal_security.dir/mpi_hal.c.obj	98f9aee9f4bf18d0
+34518	35814	8063096839875135	esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir/partition.c.obj	d981803a56c8d849
+35038	35883	8063096845077809	esp-idf/esp_hal_security/CMakeFiles/__idf_esp_hal_security.dir/aes_hal.c.obj	db36ac0fd5ac1f0c
+41630	43177	8063096910990545	esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/src/esp_hidh.c.obj	b39c67afa04f9e3b
+35827	37724	8063096852961624	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_sd.c.obj	ad6ba6bde70badf4
+35141	36007	8063096846106253	esp-idf/esp_hal_mspi/CMakeFiles/__idf_esp_hal_mspi.dir/spi_flash_encrypt_hal_iram.c.obj	f9f333cb51be6a45
+34543	36043	8063096840125996	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_ota_ops.c.obj	b4c8971cf685a53
+36371	37767	8063096858407819	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_dbl.c.obj	6d8710f8f4b8ef50
+35219	36108	8063096846889258	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/esp32/spi_periph.c.obj	11903911377a6f96
+35232	36247	8063096847019609	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal.c.obj	549be25cd89882b9
+41735	43203	8063096912053832	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_common.c.obj	bba0679b49082c1e
+35431	36275	8063096849006552	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	9557ec1fe76bf9
+35129	36289	8063096845985921	esp-idf/esp_hal_mspi/CMakeFiles/__idf_esp_hal_mspi.dir/spi_flash_hal_iram.c.obj	1daf6aaabb0f3e2a
+35389	36343	8063096848585056	esp-idf/esp_stdio/CMakeFiles/__idf_esp_stdio.dir/stdio_simple.c.obj	dd23ffb45ec90160
+41460	43124	8063096909289439	esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/mac/esp_eth_mac_esp_gpio.c.obj	e49d610d07242b8b
+35245	36357	8063096847139979	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal_iram.c.obj	46c0113be42102de
+38150	38580	8063096876199168	esp-idf/esp_driver_gpio/libesp_driver_gpio.a	e7ea9d191687dab4
+35483	36386	8063096849528394	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_context.S.obj	4a98b240b408f2a9
+44103	44320	8063096935729989	esp-idf/xtensa/libxtensa.a	d574c0baa5538f32
+35591	36419	8063096850608964	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_vectors.S.obj	c2960bdf5cf8755e
+35444	36432	8063096849136924	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	545c140923f65300
+35271	36552	8063096847405466	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal_iram.c.obj	bdd9cb7ae3b09e33
+35619	36593	8063096850884958	esp-idf/esp_hal_sd/CMakeFiles/__idf_esp_hal_sd.dir/esp32/sdmmc_periph.c.obj	346171da9d7697eb
+35418	36702	8063096848876112	esp-idf/esp_stdio/CMakeFiles/__idf_esp_stdio.dir/stdio_syscalls_simple.c.obj	a519d0f9639a0312
+36260	36733	8063096857298960	esp-idf/esp_driver_dma/libesp_driver_dma.a	f880167b7cf40fb
+40053	41815	8063096895220525	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_cap.c.obj	d4e3990b21694887
+39841	41158	8063096893106201	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_oneshot.c.obj	2945c5a59aecc628
+35522	36791	8063096849915998	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr.c.obj	4f275ddac1bd7328
+35662	36859	8063096851318103	esp-idf/esp_hal_sd/CMakeFiles/__idf_esp_hal_sd.dir/esp32/sdio_slave_periph.c.obj	754fea60e50357ca
+36733	37236	8063096862025370	esp-idf/esp_mm/libesp_mm.a	117b0e1222cedbbf
+35814	37585	8063096852840716	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_mmc.c.obj	c5a6f63d234cbe20
+35801	37683	8063096852710370	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_init.c.obj	117bd2580bc9922c
+36043	37710	8063096855126403	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_master.c.obj	5d2bb73836491d35
+37236	37738	8063096867061378	esp-idf/esp_pm/libesp_pm.a	9ce1bb8c42afe57a
+36433	37780	8063096859023453	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_file.c.obj	a05c89ec0a316c0
+36703	37851	8063096861719395	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_rem.c.obj	7f289287f81bb70d
+36593	37884	8063096860628772	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_lit.c.obj	686287f87c5da97b
+36553	37897	8063096860227387	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_int.c.obj	96cce22f092aa434
+36357	37991	8063096858262294	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_date.c.obj	3bb24e851ede6aee
+36859	38041	8063096863286225	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_str.c.obj	b54c5cc7eca5b5dc
+36248	38112	8063096857163438	esp-idf/console/CMakeFiles/__idf_console.dir/esp_console_repl_internal.c.obj	3bc2bbd5de7a9bf3
+44534	44746	8063096940028531	esp-idf/esp_driver_touch_sens/libesp_driver_touch_sens.a	87c6b353db50ed27
+37738	38150	8063096872077467	esp-idf/esp_hal_uart/libesp_hal_uart.a	81d320c8bec33b28
+36303	38183	8063096857725311	esp-idf/console/CMakeFiles/__idf_console.dir/esp_console_repl_chip.c.obj	dc752ecdfade10e4
+36234	38207	8063096857043089	esp-idf/console/CMakeFiles/__idf_console.dir/esp_console_common.c.obj	8f18b2d1a4f72cd1
+37163	38227	8063096866328440	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_utils.c.obj	eea0701ac5089bf2
+43044	44276	8063096925137765	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/vfs/vfs_fat_spiflash.c.obj	b7abaa07ff8451d1
+36791	38275	8063096862607311	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/arg_rex.c.obj	870decdc3af62545
+36029	38391	8063096854989259	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_common.c.obj	8a444bfe1e807f0e
+37885	38640	8063096873536785	esp-idf/esp_hal_ledc/CMakeFiles/__idf_esp_hal_ledc.dir/esp32/ledc_periph.c.obj	b78e874dd3b77ac4
+37517	38700	8063096869865425	esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/argtable3.c.obj	5d75f005e7bb2e95
+37600	38751	8063096870693067	esp-idf/unity/CMakeFiles/__idf_unity.dir/unity_utils_freertos.c.obj	13862eb2d192d6f
+37919	38817	8063096873889090	esp-idf/esp_hal_mcpwm/CMakeFiles/__idf_esp_hal_mcpwm.dir/esp32/mcpwm_periph.c.obj	58e9195934d94cda
+37851	38851	8063096873206452	esp-idf/esp_hal_ledc/CMakeFiles/__idf_esp_hal_ledc.dir/ledc_hal_iram.c.obj	52cdb8986a012378
+37683	38890	8063096871525556	esp-idf/unity/CMakeFiles/__idf_unity.dir/port/esp/unity_utils_memory_esp.c.obj	6195e5688ee3aaf6
+40566	41990	8063096900361342	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_simple.c.obj	175d608fcb70ce75
+37711	38943	8063096871806454	esp-idf/esp_hal_twai/CMakeFiles/__idf_esp_hal_twai.dir/twai_hal_v1.c.obj	46383563f2f5e14c
+37543	39127	8063096870125933	esp-idf/protobuf-c/CMakeFiles/__idf_protobuf-c.dir/protobuf-c/protobuf-c/protobuf-c.c.obj	12f2c4237af04420
+39035	40052	8063096885038761	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/crc32.cpp.obj	7dde8236b9c59cd3
+38275	39234	8063096877453501	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_crc.c.obj	3ff59a1d026710e7
+37768	39307	8063096872363553	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_slave.c.obj	ca34a9654a91cdb3
+37724	39590	8063096871951914	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_master.c.obj	9588783000ca228a
+38454	39604	8063096879245353	esp-idf/esp_hal_lcd/CMakeFiles/__idf_esp_hal_lcd.dir/esp32/lcd_periph.c.obj	3db6970bea51d5ff
+38751	39672	8063096882206109	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/sec2.pb-c.c.obj	124abf0de791e7bf
+38733	39685	8063096882020443	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/sec1.pb-c.c.obj	62d5e804c8e09983
+38700	39699	8063096881697399	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/proto-c/constants.pb-c.c.obj	5197604a2b0d90a
+38415	39827	8063096878844735	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_transaction.c.obj	5afa3c757f2fd0db
+38228	39952	8063096876976811	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/src/sd_trans_sdmmc.c.obj	f79377ffb0a77463
+38891	40221	8063096883608865	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/SPI_Flash.cpp.obj	675954e07c47e706
+39127	40311	8063096885961899	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/wl_blockdev.cpp.obj	dd616fcdcc491cfe
+39307	40324	8063096887764675	esp-idf/cmock/CMakeFiles/__idf_cmock.dir/CMock/src/cmock.c.obj	819956724506b05b
+39098	40412	8063096885685798	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/wear_levelling.cpp.obj	136fde2cc2479279
+39021	40566	8063096884908361	esp-idf/wear_levelling/CMakeFiles/__idf_wear_levelling.dir/WL_Flash.cpp.obj	ff046ce7ba131a7b
+38611	40648	8063096880806839	esp-idf/esp_https_server/CMakeFiles/__idf_esp_https_server.dir/src/https_server.c.obj	30cf36f968b6023b
+40145	40723	8063096896140249	esp-idf/app_update/libapp_update.a	ac640e239d7da37e
+39699	40839	8063096891687562	esp-idf/esp_blockdev_util/CMakeFiles/__idf_esp_blockdev_util.dir/memory.c.obj	f377a273e3e47560
+38818	40905	8063096882876288	esp-idf/protocomm/CMakeFiles/__idf_protocomm.dir/src/security/security2.c.obj	81f963074154bd06
+39218	40918	8063096886886542	esp-idf/esp_driver_gptimer/CMakeFiles/__idf_esp_driver_gptimer.dir/src/gptimer.c.obj	b403933e5484d774
+39748	40945	8063096892179330	esp-idf/esp_driver_cam/CMakeFiles/__idf_esp_driver_cam.dir/esp_cam_ctlr.c.obj	b5628912fda213bf
+39604	41036	8063096890744989	esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/touch_sensor_common.c.obj	81f0aa7be16a4d6c
+39827	41079	8063096892975952	esp-idf/esp_driver_cam/CMakeFiles/__idf_esp_driver_cam.dir/dvp_share_ctrl.c.obj	ecefd09c6df23f5
+40723	41182	8063096901927380	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	17b3be4902902ecf
+39618	41417	8063096890880440	esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/esp32/touch_sensor.c.obj	7b4b314773a2b15b
+40205	41629	8063096896737161	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_com.c.obj	30ea27fb94a9fc73
+39965	41696	8063096894345930	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/esp32/dac_dma.c.obj	526d04c15c151393
+39591	41765	8063096890604552	esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c/i2c.c.obj	79e5778198aabae6
+40235	41845	8063096897053322	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_gen.c.obj	2406257a876dd29b
+40412	41931	8063096898816092	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder.c.obj	f3a8add0b2fdfd26
+40532	41944	8063096900020564	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_copy.c.obj	27784bec33998e70
+41712	42138	8063096911818027	esp-idf/esp_hal_security/libesp_hal_security.a	d16e38cc8749c584
+42138	42719	8063096916077590	esp-idf/esp_hal_mspi/libesp_hal_mspi.a	babe27426a700e4
+40892	42809	8063096903619783	esp-idf/esp_driver_sdm/CMakeFiles/__idf_esp_driver_sdm.dir/src/sdm.c.obj	54ad199825c4d5c9
+40945	42988	8063096904154605	esp-idf/esp_driver_twai/CMakeFiles/__idf_esp_driver_twai.dir/esp_twai.c.obj	c5c90851e3a13251
+40918	43015	8063096903880692	esp-idf/esp_driver_touch_sens/CMakeFiles/__idf_esp_driver_touch_sens.dir/hw_ver1/touch_version_specific.c.obj	c5e6bfc7b8a16968
+40737	43029	8063096902062958	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_tx.c.obj	2cd54bf87b499f43
+41697	43057	8063096911662508	esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/src/esp_hid_common.c.obj	a515dcf1b82fd2e1
+41523	43069	8063096909926613	esp-idf/esp_hid/CMakeFiles/__idf_esp_hid.dir/src/esp_hidd.c.obj	2c8fac184a56954
+41080	43136	8063096905498564	esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth.c.obj	f1648ecca3f8b6f3
+41399	43150	8063096908686593	esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/mac/esp_eth_mac_esp.c.obj	b97d7c4f6d6a0ad2
+41765	43365	8063096912340551	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_ssd1306.c.obj	aabfd28b3c0a45a2
+42050	43384	8063096915200036	esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl_transport_httpd.c.obj	3191dfc34d1c55a2
+41815	43425	8063096912857037	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/src/esp_lcd_panel_st7789.c.obj	5842f7a36fe98bd4
+41990	43470	8063096914597946	esp-idf/esp_local_ctrl/CMakeFiles/__idf_esp_local_ctrl.dir/src/esp_local_ctrl_handler.c.obj	466b6bc0fd75dbb2
+41860	43531	8063096913298632	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/spi/esp_lcd_panel_io_spi.c.obj	636bb24deb1fb906
+43162	43608	8063096926316487	esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a	ebd67b74a0632853
+41932	43632	8063096914016046	esp-idf/esp_lcd/CMakeFiles/__idf_esp_lcd.dir/i80/esp_lcd_panel_io_i2s.c.obj	dbb4c46c86d5a17c
+43085	43742	8063096925554158	esp-idf/perfmon/CMakeFiles/__idf_perfmon.dir/xtensa_perfmon_masks.c.obj	26557e646a2abeb5
+43608	44103	8063096930776396	esp-idf/esp_stdio/libesp_stdio.a	44799838e35cda69
+44583	44746	8063096940530226	esp-idf/esp_driver_sdio/libesp_driver_sdio.a	1f57d3dbdb8b56df
+43136	44245	8063096926056000	esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_cache.c.obj	73a4264de6cb250f
+43098	44253	8063096925679704	esp-idf/rt/CMakeFiles/__idf_rt.dir/FreeRTOS_POSIX_mqueue.c.obj	64cb6ab4c6277281
+44718	44881	8063096941865628	esp-idf/esp_lcd/libesp_lcd.a	c675f72bc8c4a643
+43177	44264	8063096926462222	esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_gc.c.obj	4416f958ccebbe29
+43150	44269	8063096926196324	esp-idf/spiffs/CMakeFiles/__idf_spiffs.dir/spiffs/src/spiffs_check.c.obj	4945374df7c5a04f
+42809	44617	8063096922786225	esp-idf/fatfs/CMakeFiles/__idf_fatfs.dir/src/ff.c.obj	f30c84478e1506c3
+44412	44691	8063096938820648	esp-idf/esp_hal_pcnt/libesp_hal_pcnt.a	c62eccee5e911c18
+44424	44704	8063096938930984	esp-idf/esp_hal_rmt/libesp_hal_rmt.a	c1460deb1c4bd531
+43232	44731	8063096927019404	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	85b3d78deaccf405
+44461	44731	8063096939307714	esp-idf/wear_levelling/libwear_levelling.a	f8fc81a5f45ea624
+44473	44731	8063096939428003	esp-idf/esp_driver_gptimer/libesp_driver_gptimer.a	a253cec7e41ec745
+44546	44746	8063096940164100	esp-idf/perfmon/libperfmon.a	8600e63d788055a3
+44558	44746	8063096940279452	esp-idf/rt/librt.a	209410f1104a6a03
+44571	44762	8063096940399901	esp-idf/sdmmc/libsdmmc.a	37af4ee4d46ebee2
+44605	44784	8063096940755963	esp-idf/esp_hid/libesp_hid.a	68926a09eac5eea9
+44643	44813	8063096941128014	esp-idf/driver/libdriver.a	56d891f35ec56566
+44631	44785	8063096941012649	esp-idf/cmock/libcmock.a	75ffe7752b8f9047
+44654	44810	8063096941238371	esp-idf/esp_driver_twai/libesp_driver_twai.a	917327cfbfd8229a
+44618	44830	8063096940877177	esp-idf/protocomm/libprotocomm.a	218197f1f85eac99
+44691	44841	8063096941609669	esp-idf/esp_driver_pcnt/libesp_driver_pcnt.a	ce98f2a5ecb11ad7
+44830	44962	8063096942998444	esp-idf/esp_local_ctrl/libesp_local_ctrl.a	99d289d26ab44889
+31278	48291	8063096977538614	bootloader-prefix/src/bootloader-stamp/bootloader-configure	5f50c246e55d130b
+48291	53150	8063096977600194	bootloader/bootloader.bin	ec7e2a471f978adf
+48291	53150	8063096977600194	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.elf	ec7e2a471f978adf
+48291	53150	8063096977600194	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.bin	ec7e2a471f978adf
+53150	53183	8063097026200947	bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+53150	53183	8063097026200947	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+53183	53256	8063097027201539	bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+45241	55807	8063097052199824	esp-idf/esp_system/ld/sections.ld	84ad791310419b51
+45241	55807	8063097052199824	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_system/ld/sections.ld	84ad791310419b51
+55807	55988	8063097052765623	CMakeFiles/lab1.elf.dir/project_elf_src_esp32.c.obj	a9891e623dc72cc5
+55988	56738	8063097054580919	lab1.elf	5c5a9a851433367a
+56738	56915	8063097063787972	.bin_timestamp	a65f7355600c5a1
+56738	56915	8063097063787972	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/.bin_timestamp	a65f7355600c5a1
+34	12519	8063097417294112	build.ninja	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/xtensa/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_stdio/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_dma/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_gpspi/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_clock/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_mspi/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_blockdev/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_security/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/bootloader/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esptool_py/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/partition_table/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_app_format/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_bootloader_format/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/app_update/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_partition/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/efuse/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_security/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_gpio/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_uart/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_pm/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_mm/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_dma/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/include/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/everest/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/p256-m/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/builtin/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/drivers/pqcp/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/extras/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/platform/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/utilities/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/pkgconfig/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_timg/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_wdt/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_i2s/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_ana_conv/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_rtc_timer/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/bootloader_support/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/spi_flash/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_usb_cdc_rom_console/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_system/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_system/port/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_common/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_rom/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/hal/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/log/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/heap/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/soc/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_gpio/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_usb/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_pmu/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_touch_sens/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hw_support/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/freertos/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_libc/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_libc/src/port/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/pthread/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/cxx/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_timer/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_ringbuf/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_psram/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_uart/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_gptimer/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/app_trace/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_event/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/nvs_sec_provider/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/nvs_flash/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_phy/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_usb_serial_jtag/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/vfs/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/lwip/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_netif_stack/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_netif/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/wpa_supplicant/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_coex/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_wifi/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_spi/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_gdbstub/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/bt/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/unity/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/cmock/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/console/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_i2c/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_twai/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/driver/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/http_parser/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp-tls/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_i2s/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_adc/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_blockdev_util/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_ana_cmpr/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_ana_cmpr/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_bitscrambler/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_cam/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_isp/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_cam/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_dac/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_i2c/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_i3c/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_jpeg/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_jpeg/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_ledc/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_ledc/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_mcpwm/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_mcpwm/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_parlio/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_parlio/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_pcnt/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_pcnt/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_ppa/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_ppa/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_rmt/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_rmt/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_sd/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/sdmmc/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_sd_intf/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_sdio/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_sdm/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_sdmmc/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_sdspi/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_touch_sens/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_tsens/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_driver_twai/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_eth/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_ieee802154/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hal_lcd/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_hid/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/tcp_transport/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_http_client/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_http_server/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_https_ota/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_https_server/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_lcd/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/protobuf-c/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/protocomm/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_local_ctrl/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_trace/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/espcoredump/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/wear_levelling/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/fatfs/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/idf_test/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/ieee802154/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/openthread/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/perfmon/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/rt/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/spiffs/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/ulp/cmake_install.cmake	c8a1d7a591f0016a
+34	12519	8063097417294112	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/main/cmake_install.cmake	c8a1d7a591f0016a
+96	240	8063097419307097	bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+96	240	8063097419307097	bootloader/bootloader.elf	ec7e2a471f978adf
+96	240	8063097419307097	bootloader/bootloader.bin	ec7e2a471f978adf
+96	240	8063097419307097	bootloader/bootloader.map	ec7e2a471f978adf
+96	240	8063097419307097	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+96	240	8063097419307097	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.elf	ec7e2a471f978adf
+96	240	8063097419307097	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.bin	ec7e2a471f978adf
+96	240	8063097419307097	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.map	ec7e2a471f978adf
+88	259	8063097419226889	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	6eb946fac0ad8c36
+240	274	8063097420745261	bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+240	274	8063097420745261	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+274	347	8063097421762937	CMakeFiles/bootloader-complete	7d6d887c875e9b27
+274	347	8063097421762937	bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+274	347	8063097421762937	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/bootloader-complete	7d6d887c875e9b27
+274	347	8063097421762937	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+82	352	8063097419161773	esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.obj	4b463edf9cc29f3c
+352	434	8063097421873155	esp-idf/esp_app_format/libesp_app_format.a	aa3e5409ed886d04
+434	510	8063097422682934	esp-idf/main/libmain.a	11fdeb8e4fee82e3
+511	8457	8063097502473966	esp-idf/esp_system/ld/sections.ld	84ad791310419b51
+511	8457	8063097502473966	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/esp-idf/esp_system/ld/sections.ld	84ad791310419b51
+8457	8494	8063097502917382	CMakeFiles/RGB_LED_Lab1.elf.dir/project_elf_src_esp32.c.obj	3f00e61dbb632376
+8494	9188	8063097503288122	RGB_LED_Lab1.elf	6208f35ea11bbe17
+9189	9355	8063097511853473	.bin_timestamp	5e6f29ef83d3281c
+9189	9355	8063097511853473	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/.bin_timestamp	5e6f29ef83d3281c
+9356	9427	8063097511898601	CMakeFiles/app_check_size	1fb67dac7a16301d
+9356	9427	8063097511898601	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/app_check_size	1fb67dac7a16301d
+77	146	8063097530754055	CMakeFiles/app_check_size	1fb67dac7a16301d
+77	146	8063097530754055	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/app_check_size	1fb67dac7a16301d
+70	201	8063097530684053	bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+70	201	8063097530684053	bootloader/bootloader.elf	ec7e2a471f978adf
+70	201	8063097530684053	bootloader/bootloader.bin	ec7e2a471f978adf
+70	201	8063097530684053	bootloader/bootloader.map	ec7e2a471f978adf
+70	201	8063097530684053	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+70	201	8063097530684053	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.elf	ec7e2a471f978adf
+70	201	8063097530684053	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.bin	ec7e2a471f978adf
+70	201	8063097530684053	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.map	ec7e2a471f978adf
+202	237	8063097532006676	bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+202	237	8063097532006676	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+237	310	8063097533024459	CMakeFiles/bootloader-complete	7d6d887c875e9b27
+237	310	8063097533024459	bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+237	310	8063097533024459	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/bootloader-complete	7d6d887c875e9b27
+237	310	8063097533024459	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+310	11446	8063097533084481	CMakeFiles/flash.util	177281ae5d89e89c
+82	155	8063105380813465	CMakeFiles/app_check_size	1fb67dac7a16301d
+82	155	8063105380813465	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/app_check_size	1fb67dac7a16301d
+75	205	8063105380733937	bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+75	205	8063105380733937	bootloader/bootloader.elf	ec7e2a471f978adf
+75	205	8063105380733937	bootloader/bootloader.bin	ec7e2a471f978adf
+75	205	8063105380733937	bootloader/bootloader.map	ec7e2a471f978adf
+75	205	8063105380733937	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+75	205	8063105380733937	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.elf	ec7e2a471f978adf
+75	205	8063105380733937	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.bin	ec7e2a471f978adf
+75	205	8063105380733937	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.map	ec7e2a471f978adf
+205	253	8063105382035266	bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+205	253	8063105382035266	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+254	327	8063105383195840	CMakeFiles/bootloader-complete	7d6d887c875e9b27
+254	327	8063105383195840	bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+254	327	8063105383195840	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/bootloader-complete	7d6d887c875e9b27
+254	327	8063105383195840	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+80	147	8063105400417986	CMakeFiles/app_check_size	1fb67dac7a16301d
+80	147	8063105400417986	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/app_check_size	1fb67dac7a16301d
+73	202	8063105400352912	bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+73	202	8063105400352912	bootloader/bootloader.elf	ec7e2a471f978adf
+73	202	8063105400352912	bootloader/bootloader.bin	ec7e2a471f978adf
+73	202	8063105400352912	bootloader/bootloader.map	ec7e2a471f978adf
+73	202	8063105400352912	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	ec7e2a471f978adf
+73	202	8063105400352912	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.elf	ec7e2a471f978adf
+73	202	8063105400352912	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.bin	ec7e2a471f978adf
+73	202	8063105400352912	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader/bootloader.map	ec7e2a471f978adf
+203	236	8063105401653403	bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+203	236	8063105401653403	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	7a92e937e09a44b1
+237	307	8063105402633766	CMakeFiles/bootloader-complete	7d6d887c875e9b27
+237	307	8063105402633766	bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+237	307	8063105402633766	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/CMakeFiles/bootloader-complete	7d6d887c875e9b27
+237	307	8063105402633766	C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab1/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	7d6d887c875e9b27
+307	11303	8063105402702296	CMakeFiles/flash.util	177281ae5d89e89c

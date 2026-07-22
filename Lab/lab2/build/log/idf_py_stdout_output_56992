@@ -1,0 +1,395 @@
+Command: C:\esp-tools\python_env\idf6.0_py3.11_env\Scripts\python.exe C:\esp\v6.0.2\esp-idf\tools/idf_monitor.py -p COM3 -b 115200 --toolchain-prefix xtensa-esp32-elf- --target esp32 --revision 0 C:\Users\HP OMEN\Desktop\work-gitfork-kmitl\Week-04-LED-and-Color-Sensing\043-Week-04-LED-and-Color-Sensing\Lab\lab2\build\LAB2_ADC_SETTLING.elf C:\Users\HP OMEN\Desktop\work-gitfork-kmitl\Week-04-LED-and-Color-Sensing\043-Week-04-LED-and-Color-Sensing\Lab\lab2\build\bootloader\bootloader.elf --force-color -m 'C:\esp-tools\python_env\idf6.0_py3.11_env\Scripts\python.exe' 'C:\esp\v6.0.2\esp-idf\tools\idf.py'
+:46
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+cl�(49) boot: ## Label            Usage          Type ST Offset   Length
+[0;32mI (56) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+I (62�ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0040,len:6272
+load:0x40078000,len:15820
+load:0x40080400,len:3920
+entry 0x40080644
+[0;32mI (27) boot: ESP-IDF v6.0.2 2nd stage bootloader[0m
+[0;32mI (27) boot: compile time Jul 21 2026 11:38:03[0m
+[0;32mI (27) boot: Multicore bootloader[0m
+[0;32mI (29) boot: chip revision: v3.1[0m
+[0;32mI (32) boot.esp32: SPI Speed      : 40MHz[0m
+[0;32mI (35) boot.esp32: SPI Mode       : DIO[0m
+[0;32mI (39) boot.esp32: SPI Flash Size : 2MB[0m
+[0;32mI (42) boot: Enabling RNG early entropy source...[0m
+[0;32mI (47) boot: Partition Table:[0m
+[0;32mI (49) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (56) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (62) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (69) boot:  2 factory          factory app      00 00 00010000 00100000[0m
+[0;32mI (75) boot: End of partition table[0m
+[0;32mI (79) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=092a8h ( 37544) map[0m
+[0;32mI (100) esp_image: segment 1: paddr=000192d0 vaddr=3ffb0000 size=02a2ch ( 10796) load[0m
+[0;32mI (104) esp_image: segment 2: paddr=0001bd04 vaddr=40080000 size=04314h ( 17172) load[0m
+[0;32mI (111) esp_image: segment 3: paddr=00020020 vaddr=400d0020 size=0e790h ( 59280) map[0m
+[0;32mI (133) esp_image: segment 4: paddr=0002e7b8 vaddr=40084314 size=068f8h ( 26872) load[0m
+[0;32mI (144) esp_image: segment 5: paddr=000350b8 vaddr=50000000 size=00028h (    40) load[0m
+[0;32mI (150) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (150) boot: Disabling RNG early entropy source...[0m
+[0;32mI (162) cpu_start: Multicore app[0m
+[0;32mI (170) cpu_start: GPIO 3 and 1 are used as console UART I/O pins[0m
+[0;32mI (171) cpu_start: Pro cpu start user code[0m
+[0;32mI (171) cpu_start: cpu freq: 160000000 Hz[0m
+[0;32mI (173) app_init: Application information:[0m
+[0;32mI (176) app_init: Project name:     LAB2_ADC_SETTLING[0m
+[0;32mI (181) app_init: App version:      7d97ce9-dirty[0m
+[0;32mI (185) app_init: Compile time:     Jul 21 2026 11:37:56[0m
+[0;32mI (191) app_init: ELF file SHA256:  eb32a9952...[0m
+[0;32mI (195) app_init: ESP-IDF:          v6.0.2[0m
+[0;32mI (199) efuse_init: Min chip rev:     v0.0[0m
+[0;32mI (203) efuse_init: Max chip rev:     v3.99 [0m
+[0;32mI (207) efuse_init: Chip rev:         v3.1[0m
+[0;32mI (211) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (217) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+[0;32mI (222) heap_init: At 3FFB3400 len 0002CC00 (179 KiB): DRAM[0m
+[0;32mI (227) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (232) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (238) heap_init: At 4008AC0C len 000153F4 (84 KiB): IRAM[0m
+[0;32mI (245) spi_flash: detected chip: generic[0m
+[0;32mI (247) spi_flash: flash io: dio[0m
+[0;33mW (250) spi_flash: Detected size(4096k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;32mI (263) main_task: Started on CPU0[0m
+[0;32mI (263) main_task: Calling app_main()[0m
+[0;32mI (263) LAB2_ADC_SETTLING: Transient Observation System Online.[0m
+==============================================================
+Color RED:
+No, ADC Raw
+1, 0
+2, 2271
+3, 0
+4, 2239
+5, 0
+6, 2256
+7, 0
+8, 2348
+9, 0
+10, 2361
+11, 0
+12, 2348
+13, 0
+14, 2347
+15, 0
+16, 2352
+17, 0
+18, 2339
+19, 0
+20, 2339
+--------------------------------------------------------------
+Color GREEN:
+No, ADC Raw
+1, 110
+2, 2026
+3, 207
+4, 2014
+5, 257
+6, 1999
+7, 362
+8, 1986
+9, 407
+10, 1953
+11, 445
+12, 1952
+13, 540
+14, 1910
+15, 609
+16, 1856
+17, 675
+18, 1846
+19, 755
+20, 1764
+--------------------------------------------------------------
+Color BLUE:
+No, ADC Raw
+1, 2192
+2, 1099
+3, 1474
+4, 1002
+5, 1562
+6, 919
+7, 1614
+8, 853
+9, 1683
+10, 800
+11, 1733
+12, 736
+13, 1808
+14, 609
+15, 1893
+16, 511
+17, 1933
+18, 457
+19, 1933
+20, 390
+==============================================================
+Color RED:
+No, ADC Raw
+1, 2162
+2, 0
+3, 2199
+4, 0
+5, 2195
+6, 0
+7, 2217
+8, 0
+9, 2297
+10, 0
+11, 2258
+12, 0
+13, 2252
+14, 0
+15, 2235
+16, 0
+17, 2237
+18, 0
+19, 2234
+20, 0
+--------------------------------------------------------------
+Color GREEN:
+No, ADC Raw
+1, 1968
+2, 80
+3, 1929
+4, 173
+5, 1919
+6, 258
+7, 1982
+8, 366
+9, 1926
+10, 444
+11, 1879
+12, 559
+13, 1809
+14, 674
+15, 1715
+16, 813
+17, 1623
+18, 912
+19, 1531
+20, 1072
+--------------------------------------------------------------
+Color BLUE:
+No, ADC Raw
+1, 2487
+2, 1968
+3, 291
+4, 2007
+5, 206
+6, 2053
+7, 127
+8, 2087
+9, 35
+10, 2058
+11, 0
+12, 1141
+13, 0
+14, 1139
+15, 0
+16, 1311
+17, 0
+18, 1675
+19, 0
+20, 2127
+==============================================================
+Color RED:
+No, ADC Raw
+1, 0
+2, 2096
+3, 29
+4, 2062
+5, 75
+6, 2022
+7, 201
+8, 1995
+9, 305
+10, 1939
+11, 391
+12, 1862
+13, 487
+14, 1829
+15, 589
+16, 1776
+17, 713
+18, 1690
+19, 815
+20, 1613
+--------------------------------------------------------------
+Color GREEN:
+No, ADC Raw
+1, 1835
+2, 441
+3, 1904
+4, 381
+5, 1952
+6, 299
+7, 1985
+8, 235
+9, 2016
+10, 156
+11, 2044
+12, 81
+13, 2089
+14, 3
+15, 2126
+16, 0
+17, 2160
+18, 0
+19, 2191
+20, 0
+--------------------------------------------------------------
+Color BLUE:
+No, ADC Raw
+1, 2466
+2, 0
+3, 2128
+4, 0
+5, 2107
+6, 0
+7, 2089
+8, 0
+9, 2063
+10, 114
+11, 2027
+12, 199
+13, 1975
+14, 334
+15, 1899
+16, 423
+17, 1876
+18, 545
+19, 1798
+20, 659
+==============================================================
+Color RED:
+No, ADC Raw
+1, 816
+2, 1729
+3, 614
+4, 1856
+5, 471
+6, 1909
+7, 421
+8, 1938
+9, 349
+10, 1954
+11, 278
+12, 2009
+13, 207
+14, 2035
+15, 139
+16, 2080
+17, 64
+18, 2121
+19, 0
+20, 2143
+--------------------------------------------------------------
+Color GREEN:
+No, ADC Raw
+1, 0
+2, 2175
+3, 0
+4, 2178
+5, 0
+6, 2235
+7, 0
+8, 2397
+9, 0
+10, 2393
+11, 0
+12, 2377
+13, 0
+14, 2359
+15, 0
+16, 2366
+17, 0
+18, 2293
+19, 112
+20, 2288
+--------------------------------------------------------------
+Color BLUE:
+No, ADC Raw
+1, 2085
+2, 1306
+3, 1438
+4, 1139
+5, 1579
+6, 999
+7, 1673
+8, 845
+9, 1817
+10, 671
+11, 1915
+12, 576
+13, 1951
+14, 485
+15, 2006
+16, 396
+17, 2063
+18, 294
+19, 2110
+20, 208
+==============================================================
+Color RED:
+No, ADC Raw
+1, 2384
+2, 0
+3, 2383
+4, 0
+5, 2386
+6, 0
+7, 2395
+8, 0
+9, 2403
+10, 0
+11, 2402
+12, 0
+13, 2411
+14, 0
+15, 2399
+16, 0
+17, 2390
+18, 0
+19, 2384
+20, 0
+--------------------------------------------------------------
+Color GREEN:
+No, ADC Raw
+1, 1657
+2, 1157
+3, 1425
+4, 1300
+5, 1267
+6, 1425
+7, 1125
+8, 1555
+9, 996
+10, 1663
+11, 871
+12, 1743
+13, 734
+14, 1872
+15, 554
+16, 1952
+17, 476
+18, 1987
+19, 403
+20, 2032
+--------------------------------------------------------------
+Color BLUE:
+No, ADC Raw
+1, 1659
+2, 2365
+3, 0
+4, 2361
+5, 0
+6, 2357

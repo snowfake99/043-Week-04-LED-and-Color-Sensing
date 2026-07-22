@@ -1,0 +1,6 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/HP OMEN/Desktop/work-gitfork-kmitl/Week-04-LED-and-Color-Sensing/043-Week-04-LED-and-Color-Sensing/Lab/lab2/build/specs/picolibc.specs"
